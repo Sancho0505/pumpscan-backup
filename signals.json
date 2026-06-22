@@ -146,13 +146,12 @@
     "age_m": 1,
     "holder": null,
     "url": "https://dexscreener.com/solana/fbjww8k1s9folfgdqvmwy8n2gd7jvyhust5hjh8f7kuq",
-    "outcome": "+300%",
-    "outcome_pct": 51127.6,
+    "outcome": "+100%",
+    "outcome_pct": 106.0,
     "outcome_at": "2026-06-22T20:17:08",
     "elapsed_min": 205,
     "targets_hit": [
-      200,
-      300
+      100
     ]
   },
   {
@@ -245,10 +244,13 @@
     "age_m": 3,
     "holder": null,
     "url": "https://dexscreener.com/solana/2ahfcdyezjbmxrtbe8zdyu4k88dbe4dohfbakx6zx8nt",
-    "outcome": "+100%",
-    "outcome_pct": 197.0,
-    "outcome_at": "2026-06-22T19:41:46",
-    "elapsed_min": 54
+    "outcome": "+200%",
+    "outcome_pct": 216.4,
+    "outcome_at": "2026-06-22T20:20:52",
+    "elapsed_min": 93,
+    "targets_hit": [
+      200
+    ]
   },
   {
     "addr": "4BMXS7ustoUu2efhB3T1FKEaDUzJHkLusxENDCSJpump",
@@ -268,6 +270,26 @@
     "outcome_pct": null,
     "outcome_at": null,
     "elapsed_min": null,
+    "targets_hit": []
+  },
+  {
+    "addr": "7WrfeDEmRS6mVfLd28BuHbpqV2WVFyECWjFJo3Lwpump",
+    "sym": "Robber",
+    "dex": "pumpswap",
+    "score": 90,
+    "alerted_at": "2026-06-22T20:22:10",
+    "entry": 7.457e-05,
+    "mcap": 74580.0,
+    "vol1h": 181925.38,
+    "ch1h": 70.81,
+    "buy_pct": 80,
+    "age_m": 6,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/bf6vawblshptvaxoawhs2n4rxd9txrpfgcjmqtdz9deb",
+    "outcome": "stop",
+    "outcome_pct": -39.0,
+    "outcome_at": "2026-06-22T20:22:54",
+    "elapsed_min": 0,
     "targets_hit": []
   }
 ]
