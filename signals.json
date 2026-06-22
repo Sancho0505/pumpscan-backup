@@ -299,5 +299,25 @@
     "outcome_at": "2026-06-22T20:22:54",
     "elapsed_min": 0,
     "targets_hit": []
+  },
+  {
+    "addr": "5PpFiEAtF7mRyq7HgU2d2y6Ebuk6STh74FGLLsPhpump",
+    "sym": "MAXI",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-22T20:45:26",
+    "entry": 9.294e-05,
+    "mcap": 92948.0,
+    "vol1h": 84815.8,
+    "ch1h": 113.0,
+    "buy_pct": 79,
+    "age_m": 2,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/6bs6qmtkjahhsgpbf3zuljs9jrcti5nhwhzujez7cj6m",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
