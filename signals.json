@@ -250,13 +250,14 @@
     "age_m": 3,
     "holder": null,
     "url": "https://dexscreener.com/solana/2ahfcdyezjbmxrtbe8zdyu4k88dbe4dohfbakx6zx8nt",
-    "outcome": "+100%",
-    "outcome_pct": 147.3,
-    "outcome_at": "2026-06-22T20:23:52",
-    "elapsed_min": 96,
+    "outcome": "+300%",
+    "outcome_pct": 309.7,
+    "outcome_at": "2026-06-22T20:30:35",
+    "elapsed_min": 103,
     "targets_hit": [
       200,
-      100
+      100,
+      300
     ]
   },
   {
