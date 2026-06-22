@@ -51,10 +51,10 @@
     "age_m": 20,
     "holder": null,
     "url": "https://dexscreener.com/solana/axj9bnpyhq3mc1frscn2e7xengatbuajvbydmpztxlsf",
-    "outcome": "+100%",
-    "outcome_pct": 115.4,
-    "outcome_at": "2026-06-22T15:25:08",
-    "elapsed_min": 26
+    "outcome": "stop",
+    "outcome_pct": -95.5,
+    "outcome_at": "2026-06-22T20:17:07",
+    "elapsed_min": 318
   },
   {
     "addr": "DRuiWiackJbKAgHt771ytXDeFrjC8Tab7FwH4Q8upump",
@@ -146,10 +146,14 @@
     "age_m": 1,
     "holder": null,
     "url": "https://dexscreener.com/solana/fbjww8k1s9folfgdqvmwy8n2gd7jvyhust5hjh8f7kuq",
-    "outcome": "+100%",
-    "outcome_pct": 106.5,
-    "outcome_at": "2026-06-22T16:55:24",
-    "elapsed_min": 4
+    "outcome": "+300%",
+    "outcome_pct": 51127.6,
+    "outcome_at": "2026-06-22T20:17:08",
+    "elapsed_min": 205,
+    "targets_hit": [
+      200,
+      300
+    ]
   },
   {
     "addr": "2LjdJ1V7QBYYAnkLa8uFbdrrkKsvTAsqoXGRnS9mpump",
@@ -165,10 +169,10 @@
     "age_m": 2,
     "holder": null,
     "url": "https://dexscreener.com/solana/fpdm84eubvr8cjxp9ucmcqh5ovq35fkggcermpmgwnsd",
-    "outcome": "+100%",
-    "outcome_pct": 127.6,
-    "outcome_at": "2026-06-22T17:10:58",
-    "elapsed_min": 1
+    "outcome": "stop",
+    "outcome_pct": -97.3,
+    "outcome_at": "2026-06-22T20:17:08",
+    "elapsed_min": 187
   },
   {
     "addr": "GsBaMkqpR2u6Pmpbk5MecS2x9HuZQot8hGC86Psypump",
@@ -245,5 +249,25 @@
     "outcome_pct": 197.0,
     "outcome_at": "2026-06-22T19:41:46",
     "elapsed_min": 54
+  },
+  {
+    "addr": "4BMXS7ustoUu2efhB3T1FKEaDUzJHkLusxENDCSJpump",
+    "sym": "BLACKCONDOR",
+    "dex": "pumpswap",
+    "score": 79,
+    "alerted_at": "2026-06-22T20:17:13",
+    "entry": 8.831e-05,
+    "mcap": 88314.0,
+    "vol1h": 178906.87,
+    "ch1h": 43.78,
+    "buy_pct": 82,
+    "age_m": 33,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/b9t1yo3xakq8y1wteydbzizq87q4gjyomkumaj8ymfy",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
