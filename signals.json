@@ -203,10 +203,10 @@
     "age_m": 2,
     "holder": null,
     "url": "https://dexscreener.com/solana/3l789e8eqxlczpqstxhy45lubt17rggkzk7jjdfhxugn",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null
+    "outcome": "expired",
+    "outcome_pct": 50.3,
+    "outcome_at": "2026-06-22T20:09:53",
+    "elapsed_min": 120
   },
   {
     "addr": "6YqsppC6qjJ3Efgwt6wMef6YGDofAPzEP5egvdzvpump",
@@ -222,10 +222,10 @@
     "age_m": 3,
     "holder": null,
     "url": "https://dexscreener.com/solana/7ogyliljzuqrqojyrlfrzv8obdgdpuxzydkts61cdfkp",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null
+    "outcome": "expired",
+    "outcome_pct": 18.2,
+    "outcome_at": "2026-06-22T20:12:38",
+    "elapsed_min": 120
   },
   {
     "addr": "GFziLKWd2JX7XpzGMCL5fpWZfZ2DnbCraPkTkF5upump",
