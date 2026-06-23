@@ -696,6 +696,7 @@
     "elapsed_min": 5,
     "targets_hit": [
       100
-    ]
+    ],
+    "moonbag_closed": true
   }
 ]
