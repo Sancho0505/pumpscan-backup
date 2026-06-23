@@ -1034,5 +1034,26 @@
     "outcome_at": "2026-06-23T19:22:47",
     "elapsed_min": 1,
     "targets_hit": []
+  },
+  {
+    "addr": "ArhY2Z29hXcrY4AAjFsvW2KFbr3U7AfZwU9SGy3eWEzJ",
+    "sym": "QUEST",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-23T20:16:23",
+    "entry": 7.539e-05,
+    "mcap": 75394.0,
+    "liq": 17099.38,
+    "vol1h": 12966.36,
+    "ch1h": 172.0,
+    "buy_pct": 78,
+    "age_m": 2,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/g6nnzqewr3xavbvdag7pvnwwyenxemqqpwpg7jqvs9mr",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
