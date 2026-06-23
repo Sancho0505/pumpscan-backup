@@ -650,10 +650,10 @@
     "age_m": 2,
     "holder": null,
     "url": "https://dexscreener.com/solana/9g3yp1u1dfxeusbnw7hvysduxk5ppcznjvlrao7vdj3q",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "stop",
+    "outcome_pct": -32.1,
+    "outcome_at": "2026-06-23T12:11:17",
+    "elapsed_min": 80,
     "targets_hit": []
   },
   {
@@ -670,10 +670,32 @@
     "age_m": 36,
     "holder": null,
     "url": "https://dexscreener.com/solana/81z1lgrsim9bc761jqu3anczkuykhbuwypvnngxwnbti",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "stop",
+    "outcome_pct": -97.5,
+    "outcome_at": "2026-06-23T12:16:11",
+    "elapsed_min": 44,
     "targets_hit": []
+  },
+  {
+    "addr": "HztYKRp1zLnGJnLCggbCww9mjFqmkuDrDofAC9s8pump",
+    "sym": "SCREAM",
+    "dex": "pumpswap",
+    "score": 95,
+    "alerted_at": "2026-06-23T12:21:41",
+    "entry": 8.02e-05,
+    "mcap": 80200.0,
+    "vol1h": 85309.66,
+    "ch1h": 150.0,
+    "buy_pct": 63,
+    "age_m": 3,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/67fgsvtteavhqraxq4fsjrmzzua8mkgmht8xc3ldbgke",
+    "outcome": "+100%",
+    "outcome_pct": 107.0,
+    "outcome_at": "2026-06-23T12:26:58",
+    "elapsed_min": 5,
+    "targets_hit": [
+      100
+    ]
   }
 ]
