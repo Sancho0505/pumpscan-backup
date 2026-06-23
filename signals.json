@@ -989,10 +989,10 @@
     "age_m": 2,
     "holder": null,
     "url": "https://dexscreener.com/solana/4gabphcywkstbf9tzdezjrvulknjraziypavvdvpndgm",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0,
+    "outcome_at": "2026-06-23T20:54:48",
+    "elapsed_min": 120,
     "targets_hit": []
   },
   {
