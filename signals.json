@@ -655,5 +655,25 @@
     "outcome_at": null,
     "elapsed_min": null,
     "targets_hit": []
+  },
+  {
+    "addr": "DcbJ88vkoaVNoaLGcehupsSB61P4WZX4aJCWENdypump",
+    "sym": "POKÉTOWN",
+    "dex": "pumpswap",
+    "score": 79,
+    "alerted_at": "2026-06-23T11:31:24",
+    "entry": 8.428e-05,
+    "mcap": 84288.0,
+    "vol1h": 188342.88,
+    "ch1h": 37.31,
+    "buy_pct": 85,
+    "age_m": 36,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/81z1lgrsim9bc761jqu3anczkuykhbuwypvnngxwnbti",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
