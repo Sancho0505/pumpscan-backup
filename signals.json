@@ -1034,7 +1034,8 @@
     "targets_hit": [
       100,
       200
-    ]
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "4hHs89h3G36Zy2hsZoGf7oiZ3z7dWQZxt6ypXMcTQJbK",
@@ -1074,10 +1075,70 @@
     "age_m": 2,
     "holder": null,
     "url": "https://dexscreener.com/solana/2zhjk4qt21fcnarjkefjkvkxvq8sb5mkdu1zshs9td47",
+    "outcome": "expired",
+    "outcome_pct": 68.6,
+    "outcome_at": "2026-06-23T19:36:10",
+    "elapsed_min": 158,
+    "targets_hit": []
+  },
+  {
+    "addr": "H4g6mVLWbYh2Z8ED1sojj7vaGE7ZLpDGp5A9au7QA63t",
+    "sym": "FGM",
+    "dex": "meteora",
+    "score": 71,
+    "alerted_at": "2026-06-23T18:54:46",
+    "entry": 1.009e-05,
+    "mcap": 0.0,
+    "vol1h": 18020.4,
+    "ch1h": 72.59,
+    "buy_pct": 66,
+    "age_m": 2,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/4gabphcywkstbf9tzdezjrvulknjraziypavvdvpndgm",
     "outcome": null,
     "outcome_pct": null,
     "outcome_at": null,
     "elapsed_min": null,
+    "targets_hit": []
+  },
+  {
+    "addr": "8uq6VWP6n8KiQ1GHqKgNpjTH8R3GX3Cxms9iATx9pump",
+    "sym": "VIREO",
+    "dex": "pumpswap",
+    "score": 95,
+    "alerted_at": "2026-06-23T19:07:39",
+    "entry": 6.643e-05,
+    "mcap": 66439.0,
+    "vol1h": 17824.15,
+    "ch1h": 106.0,
+    "buy_pct": 64,
+    "age_m": 1,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/btbr3vzf6zvot8ehiagcpzsddkz4cnsbsbwwstmvclcn",
+    "outcome": "stop",
+    "outcome_pct": -33.2,
+    "outcome_at": "2026-06-23T19:12:21",
+    "elapsed_min": 4,
+    "targets_hit": []
+  },
+  {
+    "addr": "HeYRf1NKzeEyKTyzRSTUQFcdAoE3h8V1tEHFj5U6pump",
+    "sym": "IM BACK",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-23T19:21:44",
+    "entry": 8.506e-05,
+    "mcap": 85066.0,
+    "vol1h": 66842.18,
+    "ch1h": 106.0,
+    "buy_pct": 79,
+    "age_m": 2,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/5sdwzju7fjdpnsfgnnuhms8ipovtnngxgxhwtw6t1oba",
+    "outcome": "stop",
+    "outcome_pct": -33.3,
+    "outcome_at": "2026-06-23T19:22:47",
+    "elapsed_min": 1,
     "targets_hit": []
   }
 ]
