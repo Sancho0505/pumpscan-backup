@@ -80,25 +80,6 @@
     "elapsed_min": 57
   },
   {
-    "addr": "CBm9mTzaL6EjkdhbHbz3t2SaA3odiqZKaPBVGw4kpump",
-    "sym": "Smope",
-    "dex": "pumpswap",
-    "score": 85,
-    "alerted_at": "2026-06-22T15:36:22",
-    "entry": 0.000148,
-    "mcap": 148030.0,
-    "vol1h": 72511.44,
-    "ch1h": 308.0,
-    "buy_pct": 64,
-    "age_m": 2,
-    "holder": null,
-    "url": "https://dexscreener.com/solana/7zxr8ubbvi6wc8yta8z4nthcjy2ifmnwopwk4svzy7sy",
-    "outcome": "stop",
-    "outcome_pct": -43.9,
-    "outcome_at": "2026-06-22T16:28:29",
-    "elapsed_min": 52
-  },
-  {
     "addr": "9wzLSP54t3TGGAAKjEBGrNMigzmxwj1N9S8RhFRbpump",
     "sym": "LUCIA",
     "dex": "pumpswap",
@@ -116,25 +97,6 @@
     "outcome_pct": -98.5,
     "outcome_at": "2026-06-22T17:25:46",
     "elapsed_min": 96
-  },
-  {
-    "addr": "GfyGvcGGHGdYVjhf6BrF6Q99Bxdv6bpyQj9br2EZ7oKh",
-    "sym": "NOTHING",
-    "dex": "pumpswap",
-    "score": 83,
-    "alerted_at": "2026-06-22T16:42:31",
-    "entry": 5.751e-05,
-    "mcap": 57514.0,
-    "vol1h": 30904.37,
-    "ch1h": 734.0,
-    "buy_pct": 83,
-    "age_m": 2,
-    "holder": null,
-    "url": "https://dexscreener.com/solana/8uaqfpeamcg7ybzqgttq6n2whnvkmnvnagr8ag9l4cga",
-    "outcome": "stop",
-    "outcome_pct": -51.6,
-    "outcome_at": "2026-06-22T16:47:51",
-    "elapsed_min": 5
   },
   {
     "addr": "DpZXGc5E8cMPvbP8Mpcw54DfUJ2oeok5Td4gaEo5REi5",
@@ -783,26 +745,6 @@
     "targets_hit": []
   },
   {
-    "addr": "4gRR5LW834HdiStZprtg4otiTL6TLyAeGkCDwt9W9WPv",
-    "sym": "PORTUGAL",
-    "dex": "pumpswap",
-    "score": 75,
-    "alerted_at": "2026-06-23T13:41:04",
-    "entry": 8.822e-05,
-    "mcap": 88221.0,
-    "vol1h": 30079.63,
-    "ch1h": 1078.0,
-    "buy_pct": 87,
-    "age_m": 1,
-    "holder": null,
-    "url": "https://dexscreener.com/solana/2whxrmc5tuzzdsyyxsv275viwtbbnt2gvuhcrf7yfja6",
-    "outcome": "stop",
-    "outcome_pct": -44.5,
-    "outcome_at": "2026-06-23T13:41:42",
-    "elapsed_min": 0,
-    "targets_hit": []
-  },
-  {
     "addr": "GdAKxh3N4GTXz1igTwLsJzMPUVutyiD4aSenhnJipump",
     "sym": "MOONY",
     "dex": "pumpswap",
@@ -926,30 +868,6 @@
     "elapsed_min": 12,
     "targets_hit": [
       100
-    ],
-    "moonbag_closed": true
-  },
-  {
-    "addr": "BjRQSb3bHBfCwk2rjYiDHtUSiHisX7ctFAAhoQZ8F8qn",
-    "sym": "YURY",
-    "dex": "pumpswap",
-    "score": 75,
-    "alerted_at": "2026-06-23T15:38:39",
-    "entry": 0.0001263,
-    "mcap": 126372.0,
-    "vol1h": 20688.97,
-    "ch1h": 1447.0,
-    "buy_pct": 91,
-    "age_m": 2,
-    "holder": null,
-    "url": "https://dexscreener.com/solana/6uq2xsjpqcamuyqmukqkktq2tcso4pfrh159wafrps6x",
-    "outcome": "+200%",
-    "outcome_pct": 245.2,
-    "outcome_at": "2026-06-23T15:43:39",
-    "elapsed_min": 4,
-    "targets_hit": [
-      100,
-      200
     ],
     "moonbag_closed": true
   },
