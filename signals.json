@@ -698,5 +698,25 @@
       100
     ],
     "moonbag_closed": true
+  },
+  {
+    "addr": "AkPFAtr4tCPvvMV8SHcxMdobAQoihErJ6tnCpzrciJ74",
+    "sym": "TARDIGRADE",
+    "dex": "meteora",
+    "score": 71,
+    "alerted_at": "2026-06-23T12:51:38",
+    "entry": 9.467e-06,
+    "mcap": 0.0,
+    "vol1h": 5486.39,
+    "ch1h": 61.34,
+    "buy_pct": 77,
+    "age_m": 2,
+    "holder": null,
+    "url": "https://dexscreener.com/solana/hhgbxomni6zjkanoga9sc3x2r6z8rrzvz9zkqnsvfekj",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
