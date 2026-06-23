@@ -1038,30 +1038,6 @@
     "moonbag_closed": true
   },
   {
-    "addr": "4hHs89h3G36Zy2hsZoGf7oiZ3z7dWQZxt6ypXMcTQJbK",
-    "sym": "RED",
-    "dex": "fluxbeam",
-    "score": 76,
-    "alerted_at": "2026-06-23T16:00:27",
-    "entry": 0.0001823,
-    "mcap": 182265.0,
-    "vol1h": 781.64,
-    "ch1h": 112.0,
-    "buy_pct": 100,
-    "age_m": 5,
-    "holder": null,
-    "url": "https://dexscreener.com/solana/8b2rqvc8rqn3xqnjtfth8qz9vt1mqwjqpee9exhsfayu",
-    "outcome": "+300%",
-    "outcome_pct": 301.0,
-    "outcome_at": "2026-06-23T16:25:48",
-    "elapsed_min": 25,
-    "targets_hit": [
-      100,
-      200,
-      300
-    ]
-  },
-  {
     "addr": "59ut8N7AXbebwwS6x3RMFZwMH5a5REdfCtX3DX3Spump",
     "sym": "TRUMPUNC",
     "dex": "pumpswap",
