@@ -1487,10 +1487,10 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/8pnqpnvxk9dxsyyhpff1cgcds3l8jjubmdahomxcrxxu",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0,
+    "outcome_at": "2026-06-24T09:57:43",
+    "elapsed_min": 120,
     "targets_hit": []
   },
   {
@@ -1583,6 +1583,29 @@
     "outcome_pct": null,
     "outcome_at": null,
     "elapsed_min": null,
+    "targets_hit": []
+  },
+  {
+    "addr": "GWmmE9n99MeAzMetXcebRrXskTrXxSgCUjopAgp9pump",
+    "sym": "BABYFACE",
+    "dex": "pumpswap",
+    "score": 72,
+    "alerted_at": "2026-06-24T09:45:48",
+    "entry": 0.0002946,
+    "mcap": 294623.0,
+    "liq": 39411.06,
+    "vol1h": 463129.26,
+    "ch1h": 306.0,
+    "buy_pct": 63,
+    "age_m": 68,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/f7qxfqhrtn6w6594exbrzknmbffk2swstq658mrxvtcu",
+    "outcome": "stop",
+    "outcome_pct": -42.4,
+    "outcome_at": "2026-06-24T09:46:21",
+    "elapsed_min": 0,
     "targets_hit": []
   }
 ]
