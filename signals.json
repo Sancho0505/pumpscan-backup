@@ -1653,5 +1653,28 @@
     "outcome_at": null,
     "elapsed_min": null,
     "targets_hit": []
+  },
+  {
+    "addr": "2z14FRdTgAvHzaX645JSdLazUR1sg4f9rcxHUNw3nGhw",
+    "sym": "PACT",
+    "dex": "meteora",
+    "score": 76,
+    "alerted_at": "2026-06-24T10:39:21",
+    "entry": 0.08478,
+    "mcap": 84780975.0,
+    "liq": 27115.59,
+    "vol1h": 13009.79,
+    "ch1h": 2437.0,
+    "buy_pct": 75,
+    "age_m": 2,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/6emauavz35tsffi32pf2ycymju6kbs2wrvyukptx5xpn",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
