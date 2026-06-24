@@ -1533,10 +1533,10 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/c7bthvujl17mso9exhbjolxgnyeeckp4ccefnmlukscj",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 67.8,
+    "outcome_at": "2026-06-24T10:10:56",
+    "elapsed_min": 120,
     "targets_hit": []
   },
   {
