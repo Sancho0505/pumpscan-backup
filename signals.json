@@ -1607,5 +1607,28 @@
     "outcome_at": "2026-06-24T09:46:21",
     "elapsed_min": 0,
     "targets_hit": []
+  },
+  {
+    "addr": "Bg2q2QGCJLQNbyavVHgLYETzJBwGTEMMGexsToNbpump",
+    "sym": "SSB",
+    "dex": "pumpswap",
+    "score": 78,
+    "alerted_at": "2026-06-24T10:07:26",
+    "entry": 5.142e-05,
+    "mcap": 51420.0,
+    "liq": 15897.95,
+    "vol1h": 14634.66,
+    "ch1h": 82.17,
+    "buy_pct": 61,
+    "age_m": 1,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/hnxrutcfohso6wowrlumde32xa8zlnq8gwij54wznmnz",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
