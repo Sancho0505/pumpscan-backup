@@ -3502,7 +3502,8 @@
     "elapsed_min": 40,
     "targets_hit": [
       100
-    ]
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "FGcqssZfdwcXGWn149P4LGn8rMUfUvkCSDBv2r7Ag7A5",
@@ -3979,10 +3980,10 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/9wx4ta87dskoevrzqhpmhzcvbebjp9otkymgw3zgujar",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-24T23:32:55",
+    "elapsed_min": 53,
     "targets_hit": []
   },
   {
@@ -4209,10 +4210,10 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/bvrewmupvsplo84kws2p3cgv1atcvwe4t9r2e8bfdeqv",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-24T23:32:55",
+    "elapsed_min": 18,
     "targets_hit": []
   },
   {
@@ -4261,7 +4262,8 @@
     "elapsed_min": 4,
     "targets_hit": [
       100
-    ]
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "AA5Qm4zHDVU6FAcWB4gtvL8cBrzYwouNpADDGtaDrmsh",
@@ -4280,10 +4282,10 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/7oxspggtevoeujlvjlmvydqwqjju3zxhpgd7btdxvy8w",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-24T23:32:55",
+    "elapsed_min": 9,
     "targets_hit": []
   },
   {
@@ -4303,10 +4305,33 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/h5q5depnjxak8ha2jk4h12uidcedrelhqclupkqceq6i",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-24T23:32:55",
+    "elapsed_min": 9,
+    "targets_hit": []
+  },
+  {
+    "addr": "FKfkTMu7Rea5hrrGp75P6dsosbYtxHtt9T1UvcFkpump",
+    "sym": "ANSEM",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-24T23:30:12",
+    "entry": 7.268e-05,
+    "mcap": 72682.0,
+    "liq": 18873.84,
+    "vol1h": 142658.43,
+    "ch1h": 162.0,
+    "buy_pct": 57,
+    "age_m": 11,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/7dpxrzipkysjhdkpvgm9u8k5omjaekrryzoubvjecvyy",
+    "outcome": "stop",
+    "outcome_pct": -38.2,
+    "outcome_at": "2026-06-24T23:41:04",
+    "elapsed_min": 10,
     "targets_hit": []
   }
 ]
