@@ -1630,5 +1630,28 @@
     "outcome_at": null,
     "elapsed_min": null,
     "targets_hit": []
+  },
+  {
+    "addr": "C3gDjKuc9vkZeegjCVgN4ctFn56f5JrHoZJMbWdki9S1",
+    "sym": "USWR",
+    "dex": "meteora",
+    "score": 76,
+    "alerted_at": "2026-06-24T10:31:45",
+    "entry": 0.2983,
+    "mcap": 298361452.0,
+    "liq": 50915.28,
+    "vol1h": 26271.23,
+    "ch1h": 5722.0,
+    "buy_pct": 81,
+    "age_m": 1,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/hmvqlpd36ittsvkryio6gyft5enmf58su8rsaa2zmhfx",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
