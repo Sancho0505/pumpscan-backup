@@ -1676,5 +1676,28 @@
     "outcome_at": null,
     "elapsed_min": null,
     "targets_hit": []
+  },
+  {
+    "addr": "xJcByDkCETpZFarYVbZ7pGc8fxqESd9LBjVbaYepump",
+    "sym": "OkDiscussion",
+    "dex": "pumpswap",
+    "score": 89,
+    "alerted_at": "2026-06-24T11:07:58",
+    "entry": 5.007e-05,
+    "mcap": 50076.0,
+    "liq": 15720.54,
+    "vol1h": 41509.94,
+    "ch1h": 73.43,
+    "buy_pct": 59,
+    "age_m": 25,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/5bmn6mknm3q7fybaxxkc9fvqmu5ubhztnb6bqb4y9ipt",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
