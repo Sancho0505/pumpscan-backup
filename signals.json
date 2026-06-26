@@ -5375,7 +5375,8 @@
     "targets_hit": [
       100,
       200
-    ]
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "Cvs7deW5cTy4m9UV66MezM157BNmSozZKEg9Efekpump",
@@ -5667,7 +5668,8 @@
     "elapsed_min": 3,
     "targets_hit": [
       100
-    ]
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "C8aHA1FBxTCb9S4QTgmYJWD9tnBzZ7xMcvB9KwoGpump",
@@ -5692,7 +5694,8 @@
     "elapsed_min": 11,
     "targets_hit": [
       100
-    ]
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "3iohmh16za41jPLt76Ktd5Jk5FGHxN9MGZv1HvkNpump",
@@ -5734,10 +5737,10 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/arapz6jnxlzz39urjca1bvlr4hxhkgntmls3rsxpgdrz",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-26T21:18:32",
+    "elapsed_min": 19,
     "targets_hit": []
   },
   {
@@ -5757,6 +5760,56 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/hpgkq2tbfaerwbbd63e99ubodz5olqots2et3kwp6rak",
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-26T21:18:32",
+    "elapsed_min": 15,
+    "targets_hit": []
+  },
+  {
+    "addr": "Go6nQcPqwwvH4MBTcoFEZ2G3yULgkFctwLDUSLMNpump",
+    "sym": "BOO",
+    "dex": "pumpswap",
+    "score": 91,
+    "alerted_at": "2026-06-26T21:14:19",
+    "entry": 0.0001856,
+    "mcap": 185687.0,
+    "liq": 33207.91,
+    "vol1h": 763263.21,
+    "ch1h": 130.0,
+    "buy_pct": 52,
+    "age_m": 70,
+    "holder": {
+      "top10_pct": 22.3,
+      "top1_pct": 8.5,
+      "holder_adj": 10
+    },
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/ghopf5hdyjkuialuaysm6wctxt7muxchigu53sh7fn5b",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
+  },
+  {
+    "addr": "4UATFLrfiYPY9HrWkpwwpHQBa6ZaWKCuSUSjDsHUpump",
+    "sym": "GachaPump",
+    "dex": "pumpswap",
+    "score": 78,
+    "alerted_at": "2026-06-26T21:30:05",
+    "entry": 5.365e-05,
+    "mcap": 53659.0,
+    "liq": 16636.93,
+    "vol1h": 49314.4,
+    "ch1h": 83.44,
+    "buy_pct": 51,
+    "age_m": 13,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/7gcfdvtdoow4nov3numbhf8euqblykdwqpkawxbn6k1c",
     "outcome": null,
     "outcome_pct": null,
     "outcome_at": null,
