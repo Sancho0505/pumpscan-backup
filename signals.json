@@ -5368,12 +5368,13 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/4btvosm4paw3w5yxdcfqrvhhgkkyni1orgtfn1cpjbxh",
-    "outcome": "+100%",
-    "outcome_pct": 100.3,
-    "outcome_at": "2026-06-26T17:28:38",
-    "elapsed_min": 131,
+    "outcome": "+200%",
+    "outcome_pct": 202.6,
+    "outcome_at": "2026-06-26T20:20:43",
+    "elapsed_min": 303,
     "targets_hit": [
-      100
+      100,
+      200
     ]
   },
   {
@@ -5485,13 +5486,14 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/76bwezzprykrporsquat7lvpug2typghnmharl5nanbw",
-    "outcome": "+200%",
-    "outcome_pct": 200.8,
-    "outcome_at": "2026-06-26T18:23:46",
-    "elapsed_min": 60,
+    "outcome": "+300%",
+    "outcome_pct": 306.9,
+    "outcome_at": "2026-06-26T19:02:54",
+    "elapsed_min": 100,
     "targets_hit": [
       100,
-      200
+      200,
+      300
     ]
   },
   {
@@ -5557,10 +5559,10 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/brpnjoej8t2s5znh1r7knzachf987paoojszzpxur7zy",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 42.4,
+    "outcome_at": "2026-06-26T20:31:28",
+    "elapsed_min": 180,
     "targets_hit": []
   },
   {
@@ -5580,13 +5582,14 @@
     "safety_flags": [],
     "rc_score": null,
     "url": "https://dexscreener.com/solana/hetlzrhxijzqu5s79hucxxqlrhtuje4qu6kdcauabveu",
-    "outcome": "+200%",
-    "outcome_pct": 205.6,
-    "outcome_at": "2026-06-26T18:39:23",
-    "elapsed_min": 46,
+    "outcome": "+300%",
+    "outcome_pct": 312.8,
+    "outcome_at": "2026-06-26T19:30:23",
+    "elapsed_min": 97,
     "targets_hit": [
       100,
-      200
+      200,
+      300
     ]
   },
   {
@@ -5612,6 +5615,152 @@
     "elapsed_min": 29,
     "targets_hit": [
       100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "61qNX1UoKDMypgDJzNGFra3Mb6DQPyUmf6zDayZ7bonk",
+    "sym": "Bepe",
+    "dex": "raydium",
+    "score": 100,
+    "alerted_at": "2026-06-26T19:32:26",
+    "entry": 7.562e-05,
+    "mcap": 75623.0,
+    "liq": 20720.18,
+    "vol1h": 80251.09,
+    "ch1h": 155.0,
+    "buy_pct": 62,
+    "age_m": 2,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/81rm4fw51f9yesbiyq99r8e6qzfkyfshrzx8lrajfpi8",
+    "outcome": "+100%",
+    "outcome_pct": 101.1,
+    "outcome_at": "2026-06-26T19:34:34",
+    "elapsed_min": 2,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "H4CFQnSz3yjapiB6Z3qAoVH6MguggitXbyoGsgf4pump",
+    "sym": "SOL",
+    "dex": "pumpswap",
+    "score": 78,
+    "alerted_at": "2026-06-26T20:18:02",
+    "entry": 5.281e-05,
+    "mcap": 52814.0,
+    "liq": 17485.75,
+    "vol1h": 843319.02,
+    "ch1h": 76.98,
+    "buy_pct": 51,
+    "age_m": 13,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/cnjhgsu8vytxnyo4aqg6fnguemmbxcsa1jgofyjcapd3",
+    "outcome": "+100%",
+    "outcome_pct": 107.5,
+    "outcome_at": "2026-06-26T20:21:45",
+    "elapsed_min": 3,
+    "targets_hit": [
+      100
     ]
+  },
+  {
+    "addr": "C8aHA1FBxTCb9S4QTgmYJWD9tnBzZ7xMcvB9KwoGpump",
+    "sym": "GPT-5.6",
+    "dex": "pumpswap",
+    "score": 79,
+    "alerted_at": "2026-06-26T20:41:48",
+    "entry": 0.0001036,
+    "mcap": 103610.0,
+    "liq": 23507.04,
+    "vol1h": 311156.19,
+    "ch1h": 247.0,
+    "buy_pct": 52,
+    "age_m": 31,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/fg2turkdf4fyzjdpirjbm5vxdawjf6prcvjauidhbh5n",
+    "outcome": "+100%",
+    "outcome_pct": 114.6,
+    "outcome_at": "2026-06-26T20:53:12",
+    "elapsed_min": 11,
+    "targets_hit": [
+      100
+    ]
+  },
+  {
+    "addr": "3iohmh16za41jPLt76Ktd5Jk5FGHxN9MGZv1HvkNpump",
+    "sym": "AltCoinMan",
+    "dex": "pumpswap",
+    "score": 99,
+    "alerted_at": "2026-06-26T20:43:42",
+    "entry": 7.751e-05,
+    "mcap": 77517.0,
+    "liq": 20288.14,
+    "vol1h": 185024.71,
+    "ch1h": 158.0,
+    "buy_pct": 52,
+    "age_m": 2,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/fv6rnmeubnz8rsptr5gurgetpzsoecjedksjbfsenskn",
+    "outcome": "stop",
+    "outcome_pct": -36.8,
+    "outcome_at": "2026-06-26T20:43:44",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "3dUpe9mGM251oFtMH2xMwb8RsEKUuu2G6E5CYTQepump",
+    "sym": "SolEra",
+    "dex": "pumpswap",
+    "score": 78,
+    "alerted_at": "2026-06-26T20:59:29",
+    "entry": 0.0002036,
+    "mcap": 203620.0,
+    "liq": 33205.96,
+    "vol1h": 399839.98,
+    "ch1h": 367.0,
+    "buy_pct": 80,
+    "age_m": 48,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/arapz6jnxlzz39urjca1bvlr4hxhkgntmls3rsxpgdrz",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
+  },
+  {
+    "addr": "2j6CApLFvzSaRZ21bAStanY5qKAJwkuit6yn7eQbpump",
+    "sym": "Terra",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-26T21:02:50",
+    "entry": 0.0001238,
+    "mcap": 123885.0,
+    "liq": 25614.09,
+    "vol1h": 207675.15,
+    "ch1h": 144.0,
+    "buy_pct": 52,
+    "age_m": 12,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "url": "https://dexscreener.com/solana/hpgkq2tbfaerwbbd63e99ubodz5olqots2et3kwp6rak",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
