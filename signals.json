@@ -5858,10 +5858,10 @@
     "rc_score": null,
     "lp_locked": null,
     "url": "https://dexscreener.com/solana/9vwawmqgl6shytakdnhp5nbw2svhag8uqqviydbttch3",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-26T21:56:35",
+    "elapsed_min": 8,
     "targets_hit": []
   }
 ]
