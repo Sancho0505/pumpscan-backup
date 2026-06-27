@@ -8303,10 +8303,10 @@
       "socials": false
     },
     "url": "https://dexscreener.com/solana/8wbf7aux7wvsmtjbs2xfoxc7fyk2bjon3swzutmvauvr",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-27T21:44:11",
+    "elapsed_min": 93,
     "targets_hit": []
   },
   {
@@ -8345,10 +8345,10 @@
       "socials": false
     },
     "url": "https://dexscreener.com/solana/7ej5d4fbjbcvt1aiaychqhbb16q5wsaqcu3cqfcdqv1q",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-27T21:44:11",
+    "elapsed_min": 75,
     "targets_hit": []
   },
   {
@@ -8471,10 +8471,52 @@
       "socials": false
     },
     "url": "https://dexscreener.com/solana/ojxydq8zusavkvukgerhz7thf9szrkavdpntzeuuq4b",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-27T21:44:11",
+    "elapsed_min": 19,
+    "targets_hit": []
+  },
+  {
+    "addr": "AMUoCfq53sNX8PDAQsNqH5ctUZTSSEpA4hajrNXUSrd",
+    "sym": "DREAM",
+    "dex": "meteora",
+    "score": 79,
+    "alerted_at": "2026-06-27T21:48:32",
+    "entry": 8.361e-05,
+    "mcap": 83614.0,
+    "liq": 22390.41,
+    "vol1h": 41440.68,
+    "ch1h": 68.96,
+    "buy_pct": 61,
+    "age_m": 25,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": null,
+    "lp_locked": null,
+    "rc_features": {},
+    "dx": {
+      "m5": 6.58,
+      "h6": 68.96,
+      "h24": 68.96,
+      "vol6h": 41440.68,
+      "vol24h": 41440.68,
+      "tx_h6": {
+        "buys": 520,
+        "sells": 335
+      },
+      "tx_h24": {
+        "buys": 520,
+        "sells": 335
+      },
+      "fdv": 83614.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/cxt9ekymqg1hqamlmawqiwqwsa5iyduqd5p4n3fuwzqm",
+    "outcome": "stop",
+    "outcome_pct": -47.4,
+    "outcome_at": "2026-06-27T21:51:25",
+    "elapsed_min": 2,
     "targets_hit": []
   }
 ]
