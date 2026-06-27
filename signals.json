@@ -8518,5 +8518,121 @@
     "outcome_at": "2026-06-27T21:51:25",
     "elapsed_min": 2,
     "targets_hit": []
+  },
+  {
+    "addr": "3osW8fVVzDm8FyYJWY27FCni2QTJboEhLr3ayPmppump",
+    "sym": "BLAZE",
+    "dex": "pumpswap",
+    "score": 87,
+    "alerted_at": "2026-06-27T22:58:04",
+    "entry": 0.0001224,
+    "mcap": 122413.0,
+    "liq": 25071.42,
+    "vol1h": 118177.61,
+    "ch1h": 249.0,
+    "buy_pct": 60,
+    "age_m": 6,
+    "holder": null,
+    "safety_flags": [
+      "rc:25773"
+    ],
+    "rc_score": 25773,
+    "lp_locked": 99.8,
+    "rc_features": {
+      "creator": "Cs6krMAPecsb16SXgJEbhcAdDMj49smWuZHF9JKwiApC",
+      "total_holders": 2,
+      "top1_pct": 45.09,
+      "top10_pct": 107.03,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 63,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 192.0,
+      "h6": 249.0,
+      "h24": 249.0,
+      "vol6h": 118177.61,
+      "vol24h": 118177.61,
+      "tx_h6": {
+        "buys": 757,
+        "sells": 504
+      },
+      "tx_h24": {
+        "buys": 757,
+        "sells": 504
+      },
+      "fdv": 122413.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/6ndprmjleh9x4ho36x5mpjtrtzfxvztm245m3neyopry",
+    "outcome": "stop",
+    "outcome_pct": -49.5,
+    "outcome_at": "2026-06-27T22:59:56",
+    "elapsed_min": 1,
+    "targets_hit": []
+  },
+  {
+    "addr": "EubeKu2fPkbTZ2cr4eqmhrwcRhiuvsueyEJTvRxabonk",
+    "sym": "Inu",
+    "dex": "raydium",
+    "score": 86,
+    "alerted_at": "2026-06-27T23:00:32",
+    "entry": 5.182e-05,
+    "mcap": 51821.0,
+    "liq": 18882.06,
+    "vol1h": 41373.92,
+    "ch1h": 130.0,
+    "buy_pct": 62,
+    "age_m": 8,
+    "holder": null,
+    "safety_flags": [
+      "rc:10001"
+    ],
+    "rc_score": 10001,
+    "lp_locked": 99.6,
+    "rc_features": {
+      "creator": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+      "total_holders": 1,
+      "top1_pct": 26.75,
+      "top10_pct": 74.54,
+      "dev_pct": 26.75,
+      "insiders": 6,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 50,
+      "lp_providers": 1,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 102.0,
+      "h6": 130.0,
+      "h24": 130.0,
+      "vol6h": 41373.92,
+      "vol24h": 41373.92,
+      "tx_h6": {
+        "buys": 691,
+        "sells": 429
+      },
+      "tx_h24": {
+        "buys": 691,
+        "sells": 429
+      },
+      "fdv": 51821.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/bviyzhvdgxxu5nvan9rrvsduxec4kqwgdxqwxwezbkxh",
+    "outcome": "stop",
+    "outcome_pct": -32.7,
+    "outcome_at": "2026-06-27T23:01:38",
+    "elapsed_min": 1,
+    "targets_hit": []
   }
 ]
