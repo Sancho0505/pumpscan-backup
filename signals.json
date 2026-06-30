@@ -21175,7 +21175,8 @@
     "elapsed_min": 158,
     "targets_hit": [
       100
-    ]
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "5CCnqQy9cyzerWNs29KA27wEweq6UZbR7Q8ewxG7pump",
@@ -21946,10 +21947,10 @@
       "socials": false
     },
     "url": "https://dexscreener.com/solana/cytmmm817gd2fzfwpn31gjc8fhfudpdzeplwqyq97jxn",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 27.5,
+    "outcome_at": "2026-06-30T04:05:59",
+    "elapsed_min": 180,
     "targets_hit": []
   },
   {
@@ -22189,10 +22190,10 @@
       "socials": false
     },
     "url": "https://dexscreener.com/solana/2gsskamszbf5zefajwfd26t8ekgpyax1axxqipprwnhv",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 7.6,
+    "outcome_at": "2026-06-30T03:52:46",
+    "elapsed_min": 150,
     "targets_hit": []
   },
   {
@@ -22660,10 +22661,10 @@
       "socials": true
     },
     "url": "https://dexscreener.com/solana/gnfjavqdzrifzlnvg1t5g2jrp9xiwfdnxdqyubzfnzhd",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": -18.0,
+    "outcome_at": "2026-06-30T04:49:53",
+    "elapsed_min": 120,
     "targets_hit": []
   },
   {
@@ -22779,11 +22780,14 @@
       "socials": true
     },
     "url": "https://dexscreener.com/solana/4yn8vabs7zwmfqfqnapwf5d1rqzdqeguwbmsmgqg9xbk",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
-    "targets_hit": []
+    "outcome": "+100%",
+    "outcome_pct": 122.1,
+    "outcome_at": "2026-06-30T03:57:41",
+    "elapsed_min": 37,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
   },
   {
     "addr": "3pEKHSiWmxcEAhv6aALvbBb9pU68Z9PbEhKLErFgpump",
@@ -22895,6 +22899,3817 @@
       "socials": true
     },
     "url": "https://dexscreener.com/solana/2lq7c3kfxvcnldltbhpprja239rds5jramenjm4p9fzf",
+    "outcome": "expired",
+    "outcome_pct": -8.6,
+    "outcome_at": "2026-06-30T06:03:24",
+    "elapsed_min": 150,
+    "targets_hit": []
+  },
+  {
+    "addr": "3Nn53d4XqrnuGVGoqKY92XXNBgKaFsz82kgPEG43pump",
+    "sym": "Bullsack",
+    "dex": "pumpswap",
+    "score": 94,
+    "alerted_at": "2026-06-30T03:42:43",
+    "entry": 6.272e-05,
+    "mcap": 62727.0,
+    "liq": 18258.33,
+    "vol1h": 76803.07,
+    "ch1h": 108.0,
+    "buy_pct": 57,
+    "age_m": 8,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.6,
+    "rc_features": {
+      "creator": "29yFzeBZgxf5zqrAkKXwgZtQehRf4pL8WbV2nRJikbw8",
+      "total_holders": 37,
+      "top1_pct": 20.69,
+      "top10_pct": 62.42,
+      "dev_pct": 0,
+      "insiders": 5,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 62.89,
+      "h6": 108.0,
+      "h24": 108.0,
+      "vol6h": 76803.07,
+      "vol24h": 76803.07,
+      "tx_h6": {
+        "buys": 1100,
+        "sells": 830
+      },
+      "tx_h24": {
+        "buys": 1100,
+        "sells": 830
+      },
+      "fdv": 62727.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/arccid4dmci8ywhznx6psjmkk4tzxym81wpfpffn2azg",
+    "outcome": "stop",
+    "outcome_pct": -38.6,
+    "outcome_at": "2026-06-30T03:55:29",
+    "elapsed_min": 12,
+    "targets_hit": []
+  },
+  {
+    "addr": "2GKyVqZz1pyWFMsQNQ9bWRfKFug9fFnxAP67dMSmpump",
+    "sym": "b40",
+    "dex": "pumpswap",
+    "score": 80,
+    "alerted_at": "2026-06-30T04:07:29",
+    "entry": 8.052e-05,
+    "mcap": 80521.0,
+    "liq": 28646.68,
+    "vol1h": 134119.89,
+    "ch1h": 35.86,
+    "buy_pct": 57,
+    "age_m": 6,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%"
+    ],
+    "rc_score": 1,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "FFQJa621tNkbVFgL83PXRjiRpffdGdHLbMXmt43MJw27",
+      "total_holders": 10,
+      "top1_pct": 21.47,
+      "top10_pct": 58.62,
+      "dev_pct": 1.8,
+      "insiders": 4,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 18.22,
+      "h6": 35.86,
+      "h24": 35.86,
+      "vol6h": 134119.89,
+      "vol24h": 134119.89,
+      "tx_h6": {
+        "buys": 1483,
+        "sells": 1105
+      },
+      "tx_h24": {
+        "buys": 1483,
+        "sells": 1105
+      },
+      "fdv": 80521.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/4eqyaxs2ssxftq18tbkdyr37bajlfsly56daeccsrp2i",
+    "outcome": "stop",
+    "outcome_pct": -31.6,
+    "outcome_at": "2026-06-30T04:08:01",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "9iF593jxyqUZDoh3KzTndcs44tpiHK3NA3d1iQrupump",
+    "sym": "TJR",
+    "dex": "pumpswap",
+    "score": 88,
+    "alerted_at": "2026-06-30T04:08:22",
+    "entry": 6.218e-05,
+    "mcap": 62181.0,
+    "liq": 18058.63,
+    "vol1h": 19507.19,
+    "ch1h": 61.87,
+    "buy_pct": 64,
+    "age_m": 1,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:honeypot",
+      "rc:128533"
+    ],
+    "rc_score": 128533,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "F5XvCe4233m6mHRbkkq2ZsFvqrPAnRrDBExeQy2fwagQ",
+      "total_holders": 0,
+      "top1_pct": 79.31,
+      "top10_pct": 98.31,
+      "dev_pct": 79.31,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 81,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 61.87,
+      "h6": 61.87,
+      "h24": 61.87,
+      "vol6h": 19507.19,
+      "vol24h": 19507.19,
+      "tx_h6": {
+        "buys": 221,
+        "sells": 123
+      },
+      "tx_h24": {
+        "buys": 221,
+        "sells": 123
+      },
+      "fdv": 62181.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/dsstmb89y2eywfjw4we9vxhm3tw1apkh7qekmvqffuca",
+    "outcome": "+100%",
+    "outcome_pct": 121.6,
+    "outcome_at": "2026-06-30T04:41:45",
+    "elapsed_min": 33,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "FtCiNNa3Vmw3wjFD2XrsKEhHsRw761Vy5T7tTJ6pump",
+    "sym": "MCCA",
+    "dex": "pumpswap",
+    "score": 91,
+    "alerted_at": "2026-06-30T04:17:06",
+    "entry": 5.671e-05,
+    "mcap": 56714.0,
+    "liq": 17305.45,
+    "vol1h": 42899.93,
+    "ch1h": 88.84,
+    "buy_pct": 50,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.7,
+    "rc_features": {
+      "creator": "35bCuPhRwufUt7UWoxT8WJxAv8e3JsC1Xq5wG7fvdDNV",
+      "total_holders": 37,
+      "top1_pct": 20.69,
+      "top10_pct": 64.75,
+      "dev_pct": 0,
+      "insiders": 4,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 88.84,
+      "h6": 88.84,
+      "h24": 88.84,
+      "vol6h": 42899.93,
+      "vol24h": 42899.93,
+      "tx_h6": {
+        "buys": 494,
+        "sells": 494
+      },
+      "tx_h24": {
+        "buys": 494,
+        "sells": 494
+      },
+      "fdv": 56714.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/5qgskd9dbh8zaxm1gpz4meyeyk1ztghva7ymzlj3mfyn",
+    "outcome": "+100%",
+    "outcome_pct": 125.4,
+    "outcome_at": "2026-06-30T04:28:21",
+    "elapsed_min": 11,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "H5WDK5c1iKMoPGKizdoMT85LqBM4FXRHUEx8Edd4pump",
+    "sym": "MCCA",
+    "dex": "pumpswap",
+    "score": 80,
+    "alerted_at": "2026-06-30T04:22:42",
+    "entry": 5.69e-05,
+    "mcap": 56906.0,
+    "liq": 17386.86,
+    "vol1h": 71581.92,
+    "ch1h": 48.14,
+    "buy_pct": 54,
+    "age_m": 4,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:14332"
+    ],
+    "rc_score": 14332,
+    "lp_locked": 99.8,
+    "rc_features": {
+      "creator": "GDrHGz3QjDT4JTyqsFmQAxWTEKPKCJuB7Tk1Tg8vtGhT",
+      "total_holders": 28,
+      "top1_pct": 65.0,
+      "top10_pct": 93.57,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 48.14,
+      "h6": 48.14,
+      "h24": 48.14,
+      "vol6h": 71581.92,
+      "vol24h": 71581.92,
+      "tx_h6": {
+        "buys": 558,
+        "sells": 472
+      },
+      "tx_h24": {
+        "buys": 558,
+        "sells": 472
+      },
+      "fdv": 56906.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/5vrfmxlbpzczs2gbrv2mkebtsiafhwbdpwfugvdqv1md",
+    "outcome": "stop",
+    "outcome_pct": -33.8,
+    "outcome_at": "2026-06-30T05:19:50",
+    "elapsed_min": 57,
+    "targets_hit": []
+  },
+  {
+    "addr": "7EYYwH9iKzLRxZYD2ruMQXYVB2fx8rYzWVjFfQEtpump",
+    "sym": "RICH",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-30T04:28:02",
+    "entry": 6.672e-05,
+    "mcap": 66722.0,
+    "liq": 18749.7,
+    "vol1h": 17180.42,
+    "ch1h": 73.09,
+    "buy_pct": 67,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:13899"
+    ],
+    "rc_score": 13899,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "yHCxHBEaJW5tbndqC8JciSThr7U1cqLpdcsvHcx6PRe",
+      "total_holders": 7,
+      "top1_pct": 65.0,
+      "top10_pct": 87.49,
+      "dev_pct": 2.8,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 73.09,
+      "h6": 73.09,
+      "h24": 73.09,
+      "vol6h": 17180.42,
+      "vol24h": 17180.42,
+      "tx_h6": {
+        "buys": 137,
+        "sells": 69
+      },
+      "tx_h24": {
+        "buys": 137,
+        "sells": 69
+      },
+      "fdv": 66722.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/8tuq1xhoqzjyh4atuqrmkthswmt5vd5efknxgscr7m9k",
+    "outcome": "stop",
+    "outcome_pct": -49.5,
+    "outcome_at": "2026-06-30T04:29:12",
+    "elapsed_min": 1,
+    "targets_hit": []
+  },
+  {
+    "addr": "FuDuuFYwSop8MV9P776WGKB1wSqP6x38CSXApLd4pump",
+    "sym": "Bullsack",
+    "dex": "pumpswap",
+    "score": 89,
+    "alerted_at": "2026-06-30T04:33:32",
+    "entry": 6.717e-05,
+    "mcap": 67171.0,
+    "liq": 18861.31,
+    "vol1h": 85567.55,
+    "ch1h": 161.0,
+    "buy_pct": 59,
+    "age_m": 37,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.4,
+    "rc_features": {
+      "creator": "E4sfrMh3LmsfzWKKdfaVXuVJDDqtNcdqGgC3Rzj38MNg",
+      "total_holders": 162,
+      "top1_pct": 20.69,
+      "top10_pct": 78.47,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 69.06,
+      "h6": 161.0,
+      "h24": 161.0,
+      "vol6h": 85567.55,
+      "vol24h": 85567.55,
+      "tx_h6": {
+        "buys": 1164,
+        "sells": 810
+      },
+      "tx_h24": {
+        "buys": 1164,
+        "sells": 810
+      },
+      "fdv": 67171.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/4lxrmzyyxtu7n1p3os3nqa3t5pxdpkfab2dmasjftnna",
+    "outcome": "stop",
+    "outcome_pct": -43.4,
+    "outcome_at": "2026-06-30T04:47:01",
+    "elapsed_min": 13,
+    "targets_hit": []
+  },
+  {
+    "addr": "a3NZkowLdcMehhfP26ea6Jtq6BXzcC5q3zs9SiApump",
+    "sym": "AIRDROP",
+    "dex": "pumpswap",
+    "score": 92,
+    "alerted_at": "2026-06-30T04:34:12",
+    "entry": 5.706e-05,
+    "mcap": 57064.0,
+    "liq": 17356.51,
+    "vol1h": 26659.1,
+    "ch1h": 66.54,
+    "buy_pct": 62,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:23990"
+    ],
+    "rc_score": 23990,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "6ujZxnphRxTqveaQtLAQHFoWz16xhLWZbTijcgZN4fRp",
+      "total_holders": 0,
+      "top1_pct": 65,
+      "top10_pct": 87.56,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 66.54,
+      "h6": 66.54,
+      "h24": 66.54,
+      "vol6h": 26659.1,
+      "vol24h": 26659.1,
+      "tx_h6": {
+        "buys": 207,
+        "sells": 125
+      },
+      "tx_h24": {
+        "buys": 207,
+        "sells": 125
+      },
+      "fdv": 57064.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/gv4x4xmms6xmjoqjcor6mnqbhk1n8t64utdnolo9xrv",
+    "outcome": "+100%",
+    "outcome_pct": 101.9,
+    "outcome_at": "2026-06-30T04:38:22",
+    "elapsed_min": 4,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "5jZstBmRqfHFwcJgZXTJCDCCgRHbYXXNjr6wcjs8pump",
+    "sym": "RICH",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T04:45:50",
+    "entry": 8.128e-05,
+    "mcap": 81283.0,
+    "liq": 20883.25,
+    "vol1h": 160351.84,
+    "ch1h": 112.0,
+    "buy_pct": 63,
+    "age_m": 3,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:13720"
+    ],
+    "rc_score": 13720,
+    "lp_locked": 99.8,
+    "rc_features": {
+      "creator": "24ihhvmxHB13T5sWRdaFJoWas62c4osfBnW62JCuNAfr",
+      "total_holders": 36,
+      "top1_pct": 65.0,
+      "top10_pct": 83.77,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 112.0,
+      "h6": 112.0,
+      "h24": 112.0,
+      "vol6h": 160351.84,
+      "vol24h": 160351.84,
+      "tx_h6": {
+        "buys": 1233,
+        "sells": 723
+      },
+      "tx_h24": {
+        "buys": 1233,
+        "sells": 723
+      },
+      "fdv": 81283.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/gpgcllnk1h8uixwimfjvjla8mw4ajejbgyyucdu6nes3",
+    "outcome": "+100%",
+    "outcome_pct": 115.3,
+    "outcome_at": "2026-06-30T04:58:17",
+    "elapsed_min": 12,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "24NhUJeM91yjvuYzSHUReTx32sDgZAB7p194C4bF2GA9",
+    "sym": "SAYLOR",
+    "dex": "meteora",
+    "score": 79,
+    "alerted_at": "2026-06-30T04:56:08",
+    "entry": 1.184e-05,
+    "mcap": 0.0,
+    "liq": 19229.92,
+    "vol1h": 46050.25,
+    "ch1h": 51.67,
+    "buy_pct": 85,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:11501"
+    ],
+    "rc_score": 11501,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "DQu41c6WipMcqVRnifuSGAHvake2UApZeizmUadezcUr",
+      "total_holders": 32,
+      "top1_pct": 81.87,
+      "top10_pct": 97.54,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 52,
+      "lp_providers": 0,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 51.67,
+      "h6": 51.67,
+      "h24": 51.67,
+      "vol6h": 46050.25,
+      "vol24h": 46050.25,
+      "tx_h6": {
+        "buys": 1328,
+        "sells": 234
+      },
+      "tx_h24": {
+        "buys": 1328,
+        "sells": 234
+      },
+      "fdv": 0.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/y9r8ksl2xgwpfoprswwbpp7nbpypwztnxanwjhpdexa",
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-30T05:05:24",
+    "elapsed_min": 9,
+    "targets_hit": []
+  },
+  {
+    "addr": "GJBNW7EAk6KuE6gbjUGRtHUx1HrwFCT7ZnoNw1Cvpump",
+    "sym": "BIGGER",
+    "dex": "pumpswap",
+    "score": 95,
+    "alerted_at": "2026-06-30T04:58:39",
+    "entry": 5.443e-05,
+    "mcap": 54432.0,
+    "liq": 16960.28,
+    "vol1h": 39109.47,
+    "ch1h": 76.39,
+    "buy_pct": 62,
+    "age_m": 4,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "9bb4XmqUiQdvHtSYC9Ga8BS7Jcke1JvdV3uAUo5bjGMB",
+      "total_holders": 13,
+      "top1_pct": 28.4,
+      "top10_pct": 77.2,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 76.39,
+      "h6": 76.39,
+      "h24": 76.39,
+      "vol6h": 39109.47,
+      "vol24h": 39109.47,
+      "tx_h6": {
+        "buys": 278,
+        "sells": 168
+      },
+      "tx_h24": {
+        "buys": 278,
+        "sells": 168
+      },
+      "fdv": 54432.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/6ugjfkucflvx4jypv72mbvhpidfauibnf39alkpktdcr",
+    "outcome": "+100%",
+    "outcome_pct": 158.5,
+    "outcome_at": "2026-06-30T05:23:34",
+    "elapsed_min": 24,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "EDwN8HUtDc4LR8Db6w8kk8b4Ne9W7dwoY3SAKGfppump",
+    "sym": "TUTU",
+    "dex": "pumpswap",
+    "score": 89,
+    "alerted_at": "2026-06-30T04:59:23",
+    "entry": 5.391e-05,
+    "mcap": 53917.0,
+    "liq": 16875.21,
+    "vol1h": 43862.24,
+    "ch1h": 79.37,
+    "buy_pct": 63,
+    "age_m": 13,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:11977"
+    ],
+    "rc_score": 11977,
+    "lp_locked": 98.9,
+    "rc_features": {
+      "creator": "TJFN4iGocJVbAj47TyyyvT418LvvsjTQu4otAjhLqPe",
+      "total_holders": 117,
+      "top1_pct": 39.93,
+      "top10_pct": 116.47,
+      "dev_pct": 0,
+      "insiders": 10,
+      "insider_nets": 2,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 53,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 25.63,
+      "h6": 79.37,
+      "h24": 79.37,
+      "vol6h": 43862.24,
+      "vol24h": 43862.24,
+      "tx_h6": {
+        "buys": 730,
+        "sells": 431
+      },
+      "tx_h24": {
+        "buys": 730,
+        "sells": 431
+      },
+      "fdv": 53917.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/duagkm5v64wj59cai6jcgeykotzpsdpt5kcsq7uwjmzk",
+    "outcome": "stop",
+    "outcome_pct": -52.3,
+    "outcome_at": "2026-06-30T05:05:04",
+    "elapsed_min": 5,
+    "targets_hit": []
+  },
+  {
+    "addr": "84eYhZRCr8ZWaocYvCw7NUsPh8f4VeYEohfozeFwpump",
+    "sym": "PORTNOY",
+    "dex": "pumpswap",
+    "score": 89,
+    "alerted_at": "2026-06-30T05:01:52",
+    "entry": 0.0001105,
+    "mcap": 110516.0,
+    "liq": 24200.41,
+    "vol1h": 69544.02,
+    "ch1h": 254.0,
+    "buy_pct": 58,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:23935"
+    ],
+    "rc_score": 23935,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "J1mm28yUmkM1E6LexiMg8AciZUhnZqvQq7nrHT39j5Xx",
+      "total_holders": 1,
+      "top1_pct": 65.0,
+      "top10_pct": 84.01,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 254.0,
+      "h6": 254.0,
+      "h24": 254.0,
+      "vol6h": 69544.02,
+      "vol24h": 69544.02,
+      "tx_h6": {
+        "buys": 599,
+        "sells": 437
+      },
+      "tx_h24": {
+        "buys": 599,
+        "sells": 437
+      },
+      "fdv": 110516.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/78vt8uhkvrxh7i4e2hw1orn8mxkyq2fhxvru2efdrrft",
+    "outcome": "+300%",
+    "outcome_pct": 305.8,
+    "outcome_at": "2026-06-30T05:19:09",
+    "elapsed_min": 17,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 317.8,
+    "moonbag_exit_pct": 45.0
+  },
+  {
+    "addr": "CXwcR1oPSRwHKnPPEVwWuWxDuHezQPD2tEwn4rvnpump",
+    "sym": "ANSOME",
+    "dex": "pumpswap",
+    "score": 78,
+    "alerted_at": "2026-06-30T05:06:41",
+    "entry": 8.022e-05,
+    "mcap": 80229.0,
+    "liq": 20497.26,
+    "vol1h": 11961.42,
+    "ch1h": 137.0,
+    "buy_pct": 60,
+    "age_m": 5,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.8,
+    "rc_features": {
+      "creator": "4vRbGzZcNVhHSSw2fdFaT6eKVnGxkUX1JZhVyQRGNALW",
+      "total_holders": 73,
+      "top1_pct": 25.1,
+      "top10_pct": 55.15,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 137.0,
+      "h6": 137.0,
+      "h24": 137.0,
+      "vol6h": 11961.42,
+      "vol24h": 11961.42,
+      "tx_h6": {
+        "buys": 5443,
+        "sells": 3599
+      },
+      "tx_h24": {
+        "buys": 5443,
+        "sells": 3599
+      },
+      "fdv": 80229.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/2vspeewk7yu8a4xpwarhzlnmtzazhru4gkeygardnunh",
+    "outcome": "+300%",
+    "outcome_pct": 304.4,
+    "outcome_at": "2026-06-30T09:12:52",
+    "elapsed_min": 246,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 1287.4,
+    "moonbag_exit_pct": 592.5
+  },
+  {
+    "addr": "8aas5iSr68LhJ2KKYWGLc9aE3CQpN4mPdcBudDYzpump",
+    "sym": "PORTNOY",
+    "dex": "pumpswap",
+    "score": 94,
+    "alerted_at": "2026-06-30T05:16:52",
+    "entry": 7.666e-05,
+    "mcap": 76668.0,
+    "liq": 20153.89,
+    "vol1h": 95582.74,
+    "ch1h": 100.0,
+    "buy_pct": 60,
+    "age_m": 4,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:24963"
+    ],
+    "rc_score": 24963,
+    "lp_locked": 99.8,
+    "rc_features": {
+      "creator": "F5XvCe4233m6mHRbkkq2ZsFvqrPAnRrDBExeQy2fwagQ",
+      "total_holders": 1,
+      "top1_pct": 70.0,
+      "top10_pct": 89.65,
+      "dev_pct": 1.79,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 63,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 100.0,
+      "h6": 100.0,
+      "h24": 100.0,
+      "vol6h": 95582.74,
+      "vol24h": 95582.74,
+      "tx_h6": {
+        "buys": 809,
+        "sells": 547
+      },
+      "tx_h24": {
+        "buys": 809,
+        "sells": 547
+      },
+      "fdv": 76668.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/dcvatffugmuudzfa4iniqsgxemw1cg4kwvdouxhbe5wf",
+    "outcome": "+100%",
+    "outcome_pct": 120.6,
+    "outcome_at": "2026-06-30T05:18:03",
+    "elapsed_min": 1,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "2838azpak6PsqVWC5UQYbSe675M2FkMS9e1Qa1ZMpump",
+    "sym": "TJR",
+    "dex": "pumpswap",
+    "score": 82,
+    "alerted_at": "2026-06-30T05:32:38",
+    "entry": 9.54e-05,
+    "mcap": 95402.0,
+    "liq": 23357.11,
+    "vol1h": 1036113.48,
+    "ch1h": 148.0,
+    "buy_pct": 57,
+    "age_m": 54,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:17925"
+    ],
+    "rc_score": 17925,
+    "lp_locked": 99.8,
+    "rc_features": {
+      "creator": "Ap24jU4ZQ53SXSwk3Z1qHejuLN5LS2CDeKrCPSUUrrMm",
+      "total_holders": 146,
+      "top1_pct": 78.0,
+      "top10_pct": 98.69,
+      "dev_pct": 0,
+      "insiders": 4,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 58,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 9.14,
+      "h6": 148.0,
+      "h24": 148.0,
+      "vol6h": 1036113.48,
+      "vol24h": 1036113.48,
+      "tx_h6": {
+        "buys": 5787,
+        "sells": 4422
+      },
+      "tx_h24": {
+        "buys": 5787,
+        "sells": 4422
+      },
+      "fdv": 95402.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/gh6hdsh1fchk35jk8jf1qjykz68dezyzfu4xv3hiexvc",
+    "outcome": "stop",
+    "outcome_pct": -32.4,
+    "outcome_at": "2026-06-30T05:43:13",
+    "elapsed_min": 10,
+    "targets_hit": []
+  },
+  {
+    "addr": "BUdoHvo2nzS8NF4v4g44t5s6P2RM1Uhkg3LmjLjSpump",
+    "sym": "ocid",
+    "dex": "pumpswap",
+    "score": 85,
+    "alerted_at": "2026-06-30T05:39:04",
+    "entry": 6.254e-05,
+    "mcap": 62548.0,
+    "liq": 18151.46,
+    "vol1h": 31981.31,
+    "ch1h": 91.38,
+    "buy_pct": 61,
+    "age_m": 30,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.4,
+    "rc_features": {
+      "creator": "57Qayu8YXy9YXDhvoqa2u2UAANfM4yHAW3caruyHw735",
+      "total_holders": 94,
+      "top1_pct": 20.69,
+      "top10_pct": 58.14,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 75.36,
+      "h6": 91.38,
+      "h24": 91.38,
+      "vol6h": 31981.31,
+      "vol24h": 31981.31,
+      "tx_h6": {
+        "buys": 447,
+        "sells": 284
+      },
+      "tx_h24": {
+        "buys": 447,
+        "sells": 284
+      },
+      "fdv": 62548.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/adp723pnx53ge97opkjwpzgzu32yelbcqcwjuvaqmjt4",
+    "outcome": "stop",
+    "outcome_pct": -33.7,
+    "outcome_at": "2026-06-30T05:49:30",
+    "elapsed_min": 10,
+    "targets_hit": []
+  },
+  {
+    "addr": "CaXeXp5o9RfaDjs2KfAUHgYASnqfUM89gaXtgWEXpump",
+    "sym": "BOGE",
+    "dex": "pumpswap",
+    "score": 99,
+    "alerted_at": "2026-06-30T05:40:33",
+    "entry": 8.294e-05,
+    "mcap": 82943.0,
+    "liq": 21047.79,
+    "vol1h": 104386.13,
+    "ch1h": 116.0,
+    "buy_pct": 57,
+    "age_m": 3,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:14054"
+    ],
+    "rc_score": 14054,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "DUQsV2e3t3Cb4dy3N9Z82Dn5c4YdUVbfHLZy1vxfwhUN",
+      "total_holders": 13,
+      "top1_pct": 65.0,
+      "top10_pct": 86.89,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 116.0,
+      "h6": 116.0,
+      "h24": 116.0,
+      "vol6h": 104386.13,
+      "vol24h": 104386.13,
+      "tx_h6": {
+        "buys": 672,
+        "sells": 500
+      },
+      "tx_h24": {
+        "buys": 672,
+        "sells": 500
+      },
+      "fdv": 82943.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/94fakbrv8cm1fxgffqazekntnszf1sh5f6seqzmspfe9",
+    "outcome": "stop",
+    "outcome_pct": -30.1,
+    "outcome_at": "2026-06-30T05:43:13",
+    "elapsed_min": 2,
+    "targets_hit": []
+  },
+  {
+    "addr": "5qn16SqEcpDTs3ZusxYsM8whiF8pN9iQrUgEEVH2pump",
+    "sym": "NORMIE",
+    "dex": "pumpswap",
+    "score": 87,
+    "alerted_at": "2026-06-30T06:00:28",
+    "entry": 5.03e-05,
+    "mcap": 50302.0,
+    "liq": 16286.51,
+    "vol1h": 34660.28,
+    "ch1h": 83.13,
+    "buy_pct": 57,
+    "age_m": 3,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.6,
+    "rc_features": {
+      "creator": "6DjUJBBgkp3mp1d6D8b8bwgmkEnmoP5Yx8DpQQHaFkVD",
+      "total_holders": 60,
+      "top1_pct": 20.69,
+      "top10_pct": 61.37,
+      "dev_pct": 0,
+      "insiders": 8,
+      "insider_nets": 2,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 83.13,
+      "h6": 83.13,
+      "h24": 83.13,
+      "vol6h": 34660.28,
+      "vol24h": 34660.28,
+      "tx_h6": {
+        "buys": 422,
+        "sells": 324
+      },
+      "tx_h24": {
+        "buys": 422,
+        "sells": 324
+      },
+      "fdv": 50302.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/5b4bzex1blbmquc7cfevyetneapn1vcdyx2q5rkutuwj",
+    "outcome": "stop",
+    "outcome_pct": -41.9,
+    "outcome_at": "2026-06-30T06:12:48",
+    "elapsed_min": 12,
+    "targets_hit": []
+  },
+  {
+    "addr": "4wevYqo3Kkb3Yde9wDU8oiZ5ZGbeVGZxV1xQJFFjpump",
+    "sym": "TIKTOK",
+    "dex": "pumpswap",
+    "score": 83,
+    "alerted_at": "2026-06-30T06:09:29",
+    "entry": 5.363e-05,
+    "mcap": 53631.0,
+    "liq": 16964.08,
+    "vol1h": 109941.48,
+    "ch1h": 37.69,
+    "buy_pct": 60,
+    "age_m": 4,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:14130"
+    ],
+    "rc_score": 14130,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "4q1vrZaeEpek1kexpLqtvYoa4o1crZ3hsuSnkuXYjA46",
+      "total_holders": 11,
+      "top1_pct": 65.0,
+      "top10_pct": 89.65,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 37.69,
+      "h6": 37.69,
+      "h24": 37.69,
+      "vol6h": 109941.48,
+      "vol24h": 109941.48,
+      "tx_h6": {
+        "buys": 834,
+        "sells": 552
+      },
+      "tx_h24": {
+        "buys": 834,
+        "sells": 552
+      },
+      "fdv": 53631.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/abzhlbbsj94rmbcpbgzcjybajsd8wtoukm3cfux5h9hm",
+    "outcome": "stop",
+    "outcome_pct": -43.4,
+    "outcome_at": "2026-06-30T06:11:01",
+    "elapsed_min": 1,
+    "targets_hit": []
+  },
+  {
+    "addr": "77bzrJuJ3n9MABhFHMiYCnfYnvnog4P2Z7zgCVx5pump",
+    "sym": "ANTOT",
+    "dex": "pumpswap",
+    "score": 90,
+    "alerted_at": "2026-06-30T06:19:09",
+    "entry": 7.213e-05,
+    "mcap": 72134.0,
+    "liq": 19503.08,
+    "vol1h": 10162.67,
+    "ch1h": 102.0,
+    "buy_pct": 67,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:14323"
+    ],
+    "rc_score": 14323,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "3DmYL3oSngaLsrHG28qGa4dckTQhpGE4EyxenosroD2P",
+      "total_holders": 0,
+      "top1_pct": 32.01,
+      "top10_pct": 74.89,
+      "dev_pct": 32.01,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 102.0,
+      "h6": 102.0,
+      "h24": 102.0,
+      "vol6h": 10162.67,
+      "vol24h": 10162.67,
+      "tx_h6": {
+        "buys": 116,
+        "sells": 56
+      },
+      "tx_h24": {
+        "buys": 116,
+        "sells": 56
+      },
+      "fdv": 72134.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/bcqjvzcxsnstcz3x9tfyu1c7sjbrczqgn8ui9xvp3gjx",
+    "outcome": "stop",
+    "outcome_pct": -41.2,
+    "outcome_at": "2026-06-30T06:19:51",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "Aso39cjyYg1oPJdABSaFDZd6gQEa2E2ffogVfmvfpump",
+    "sym": "ANTOT",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T06:27:20",
+    "entry": 9.228e-05,
+    "mcap": 92285.0,
+    "liq": 22055.57,
+    "vol1h": 25733.38,
+    "ch1h": 159.0,
+    "buy_pct": 71,
+    "age_m": 2,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:8235"
+    ],
+    "rc_score": 8235,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "3DmYL3oSngaLsrHG28qGa4dckTQhpGE4EyxenosroD2P",
+      "total_holders": 5,
+      "top1_pct": 12.71,
+      "top10_pct": 66.14,
+      "dev_pct": 5.88,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 47,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 159.0,
+      "h6": 159.0,
+      "h24": 159.0,
+      "vol6h": 25733.38,
+      "vol24h": 25733.38,
+      "tx_h6": {
+        "buys": 265,
+        "sells": 107
+      },
+      "tx_h24": {
+        "buys": 265,
+        "sells": 107
+      },
+      "fdv": 92285.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/ccspxxlaacetxuf4kg1jjchd3cydcnzj7bnrpqtvgsko",
+    "outcome": "+300%",
+    "outcome_pct": 314.2,
+    "outcome_at": "2026-06-30T08:07:30",
+    "elapsed_min": 100,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 839.2,
+    "moonbag_exit_pct": 368.8
+  },
+  {
+    "addr": "BfaUoQ7FQPcXV1BnQtNhMwXMG2UmohToG1dqXHi7pump",
+    "sym": "RUFFLE",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-30T06:27:21",
+    "entry": 5.566e-05,
+    "mcap": 55670.0,
+    "liq": 17178.66,
+    "vol1h": 50266.37,
+    "ch1h": 79.19,
+    "buy_pct": 60,
+    "age_m": 5,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:6153"
+    ],
+    "rc_score": 6153,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "4J3nfT7aB5CFfKEFa4yBDdLpxQwRvh1pRmz2vd88CcbL",
+      "total_holders": 8,
+      "top1_pct": 50,
+      "top10_pct": 79.8,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 43,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 64.36,
+      "h6": 79.19,
+      "h24": 79.19,
+      "vol6h": 50266.37,
+      "vol24h": 50266.37,
+      "tx_h6": {
+        "buys": 470,
+        "sells": 315
+      },
+      "tx_h24": {
+        "buys": 470,
+        "sells": 315
+      },
+      "fdv": 55670.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/8c25buvbrfr1tawyzbpdqb5cnmmxp8qzbhyrthtyzcrc",
+    "outcome": "stop",
+    "outcome_pct": -32.4,
+    "outcome_at": "2026-06-30T06:32:07",
+    "elapsed_min": 4,
+    "targets_hit": []
+  },
+  {
+    "addr": "2b27LMa8FbkWbHt8C5JzHciFyeKejFkCRyZ434Axpump",
+    "sym": "SAVIOURS",
+    "dex": "pumpswap",
+    "score": 99,
+    "alerted_at": "2026-06-30T06:40:50",
+    "entry": 8.734e-05,
+    "mcap": 87342.0,
+    "liq": 21551.34,
+    "vol1h": 75740.76,
+    "ch1h": 170.0,
+    "buy_pct": 60,
+    "age_m": 3,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc_warn:1104"
+    ],
+    "rc_score": 1104,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "yHCxHBEaJW5tbndqC8JciSThr7U1cqLpdcsvHcx6PRe",
+      "total_holders": 12,
+      "top1_pct": 12.33,
+      "top10_pct": 72.7,
+      "dev_pct": 1.41,
+      "insiders": 4,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 22,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 170.0,
+      "h6": 170.0,
+      "h24": 170.0,
+      "vol6h": 75740.76,
+      "vol24h": 75740.76,
+      "tx_h6": {
+        "buys": 640,
+        "sells": 427
+      },
+      "tx_h24": {
+        "buys": 640,
+        "sells": 427
+      },
+      "fdv": 87342.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/f3zknvo4dg8ughj2mwsetgvhxqf1d8lutm6pxjwsxnqa",
+    "outcome": "+300%",
+    "outcome_pct": 353.2,
+    "outcome_at": "2026-06-30T07:21:03",
+    "elapsed_min": 40,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 1251.0,
+    "moonbag_exit_pct": 307.6
+  },
+  {
+    "addr": "J2mNr7ivj7yHFBePR6uGeYsPCWHVJ7b9pBpZLqe6pump",
+    "sym": "Steve",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-30T06:48:35",
+    "entry": 6.316e-05,
+    "mcap": 63163.0,
+    "liq": 18232.6,
+    "vol1h": 25575.33,
+    "ch1h": 103.0,
+    "buy_pct": 61,
+    "age_m": 3,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:13503"
+    ],
+    "rc_score": 13503,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "Fk9YPc2VxjofMb7nN6qDfn29WemFLpsm6nafEnE3SJLm",
+      "total_holders": 7,
+      "top1_pct": 60.0,
+      "top10_pct": 88.19,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 54,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 103.0,
+      "h6": 103.0,
+      "h24": 103.0,
+      "vol6h": 25575.33,
+      "vol24h": 25575.33,
+      "tx_h6": {
+        "buys": 283,
+        "sells": 183
+      },
+      "tx_h24": {
+        "buys": 283,
+        "sells": 183
+      },
+      "fdv": 63163.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/8m4mgbutf8xgcawwvz1yfsagz8dx2egzcfdgbq7qqjjk",
+    "outcome": "+200%",
+    "outcome_pct": 245.8,
+    "outcome_at": "2026-06-30T06:59:11",
+    "elapsed_min": 10,
+    "targets_hit": [
+      100,
+      200
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "936d4Gik2B5Hh92fSShbbawFVijavGPkvwPxKApjbonk",
+    "sym": "BUY",
+    "dex": "raydium",
+    "score": 82,
+    "alerted_at": "2026-06-30T06:56:22",
+    "entry": 5.012e-05,
+    "mcap": 50123.0,
+    "liq": 16637.63,
+    "vol1h": 35661.11,
+    "ch1h": 65.92,
+    "buy_pct": 58,
+    "age_m": 4,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.5,
+    "rc_features": {
+      "creator": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+      "total_holders": 46,
+      "top1_pct": 21.08,
+      "top10_pct": 61.01,
+      "dev_pct": 21.08,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 1,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 65.92,
+      "h6": 65.92,
+      "h24": 65.92,
+      "vol6h": 35661.11,
+      "vol24h": 35661.11,
+      "tx_h6": {
+        "buys": 390,
+        "sells": 280
+      },
+      "tx_h24": {
+        "buys": 390,
+        "sells": 280
+      },
+      "fdv": 50123.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/g6jkygugaghfa6edzhzusqj6sxp4cmxbyfs1hgabg8fu",
+    "outcome": "stop",
+    "outcome_pct": -52.8,
+    "outcome_at": "2026-06-30T06:57:29",
+    "elapsed_min": 1,
+    "targets_hit": []
+  },
+  {
+    "addr": "BYhUFNkjRWrJEsaMKkZNx7sizcK4KfmTpC3Ccb4asKjz",
+    "sym": "ROBINHOOD",
+    "dex": "meteora",
+    "score": 87,
+    "alerted_at": "2026-06-30T06:59:41",
+    "entry": 1.167e-05,
+    "mcap": 0.0,
+    "liq": 18615.6,
+    "vol1h": 78834.32,
+    "ch1h": 57.28,
+    "buy_pct": 82,
+    "age_m": 4,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:11501"
+    ],
+    "rc_score": 11501,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "AVYy5c13EJcrYTTiAgd3eqFBPuSJeEvnjRfk1hbRurTs",
+      "total_holders": 25,
+      "top1_pct": 81.36,
+      "top10_pct": 98.24,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 52,
+      "lp_providers": 0,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 57.28,
+      "h6": 57.28,
+      "h24": 57.28,
+      "vol6h": 78834.32,
+      "vol24h": 78834.32,
+      "tx_h6": {
+        "buys": 1618,
+        "sells": 352
+      },
+      "tx_h24": {
+        "buys": 1618,
+        "sells": 352
+      },
+      "fdv": 0.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/3d3frs8pcsgb4jvqs1qzvhwdvsujg7gkfcyuvjl7a2vg",
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-30T07:25:58",
+    "elapsed_min": 26,
+    "targets_hit": []
+  },
+  {
+    "addr": "E992zFfKCMLeQU8icMc7H1um8KJzd8fuvWgz3PBppump",
+    "sym": "SIDELINED",
+    "dex": "pumpswap",
+    "score": 85,
+    "alerted_at": "2026-06-30T07:01:23",
+    "entry": 5.051e-05,
+    "mcap": 50513.0,
+    "liq": 16303.06,
+    "vol1h": 30934.1,
+    "ch1h": 65.19,
+    "buy_pct": 51,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:106001"
+    ],
+    "rc_score": 106001,
+    "lp_locked": 99.5,
+    "rc_features": {
+      "creator": "CzbN6T1gKkKutvuPXcxNmV8FLqzjsDWebWmg9o8e2ZbU",
+      "total_holders": 0,
+      "top1_pct": 20.69,
+      "top10_pct": 80.71,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 79,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 65.19,
+      "h6": 65.19,
+      "h24": 65.19,
+      "vol6h": 30934.1,
+      "vol24h": 30934.1,
+      "tx_h6": {
+        "buys": 390,
+        "sells": 371
+      },
+      "tx_h24": {
+        "buys": 390,
+        "sells": 371
+      },
+      "fdv": 50513.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/9hen7qw9dopxwudubz1ehnbhed9tc45se5egnb5xcdcc",
+    "outcome": "stop",
+    "outcome_pct": -39.5,
+    "outcome_at": "2026-06-30T07:01:24",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "CKiMZSys8U84qorytxzrixCTRu6XMUtbusd6132d5EYg",
+    "sym": "ROBINHOOD",
+    "dex": "meteora",
+    "score": 87,
+    "alerted_at": "2026-06-30T07:03:01",
+    "entry": 1.486e-05,
+    "mcap": 0.0,
+    "liq": 21473.54,
+    "vol1h": 71748.01,
+    "ch1h": 91.61,
+    "buy_pct": 84,
+    "age_m": 4,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:11501"
+    ],
+    "rc_score": 11501,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "6k9oPUS4o6MoBjPHs6q3A79FBCdg3xzM4wc3zu1Kq8EV",
+      "total_holders": 30,
+      "top1_pct": 70.17,
+      "top10_pct": 82.25,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 52,
+      "lp_providers": 0,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 91.61,
+      "h6": 91.61,
+      "h24": 91.61,
+      "vol6h": 71748.01,
+      "vol24h": 71748.01,
+      "tx_h6": {
+        "buys": 1603,
+        "sells": 316
+      },
+      "tx_h24": {
+        "buys": 1603,
+        "sells": 316
+      },
+      "fdv": 0.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/7fn6sd8ozwstifsjfzk4dqjfo3xx76st7mhrsnaieb7q",
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-30T07:29:42",
+    "elapsed_min": 26,
+    "targets_hit": []
+  },
+  {
+    "addr": "8xPw94s4EXxmhUd6t8ddJ45a23f3f596Y9tbVe9zpump",
+    "sym": "SUPERMAN",
+    "dex": "pumpswap",
+    "score": 78,
+    "alerted_at": "2026-06-30T07:12:31",
+    "entry": 5.298e-05,
+    "mcap": 52982.0,
+    "liq": 16643.96,
+    "vol1h": 55766.84,
+    "ch1h": 76.48,
+    "buy_pct": 56,
+    "age_m": 11,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.0,
+    "rc_features": {
+      "creator": "EQqsvnR6wUqsE3NZq7raBe3DJP3xzex6D5A9Y1xbm7HQ",
+      "total_holders": 49,
+      "top1_pct": 20.69,
+      "top10_pct": 74.86,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 366.0,
+      "h6": 76.48,
+      "h24": 76.48,
+      "vol6h": 55766.84,
+      "vol24h": 55766.84,
+      "tx_h6": {
+        "buys": 721,
+        "sells": 570
+      },
+      "tx_h24": {
+        "buys": 721,
+        "sells": 570
+      },
+      "fdv": 52982.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/anquknx37azvnz5tcxa1qyhsnjn41nbzscgeb22wfyzt",
+    "outcome": "stop",
+    "outcome_pct": -55.8,
+    "outcome_at": "2026-06-30T07:19:16",
+    "elapsed_min": 6,
+    "targets_hit": []
+  },
+  {
+    "addr": "BvBe291ns3Uo8G8PWpaWzy8Hz85fsmRnGaipbK46pump",
+    "sym": "ANSEMIQ",
+    "dex": "pumpswap",
+    "score": 89,
+    "alerted_at": "2026-06-30T07:28:56",
+    "entry": 9.359e-05,
+    "mcap": 93598.0,
+    "liq": 22450.73,
+    "vol1h": 184117.91,
+    "ch1h": 63.52,
+    "buy_pct": 69,
+    "age_m": 14,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "z3ncQfJ44W6zLP5wqrZzDBrSZT8XFG7FTZLNJdvbdNr",
+      "total_holders": 70,
+      "top1_pct": 11.99,
+      "top10_pct": 15.83,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 44.58,
+      "h6": 63.52,
+      "h24": 63.52,
+      "vol6h": 184117.91,
+      "vol24h": 184117.91,
+      "tx_h6": {
+        "buys": 2916,
+        "sells": 1335
+      },
+      "tx_h24": {
+        "buys": 2916,
+        "sells": 1335
+      },
+      "fdv": 93598.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/2qddxrbxqspkkjzzqcgpgqyuus1qevbbjvzw6ttptamd",
+    "outcome": "+300%",
+    "outcome_pct": 305.8,
+    "outcome_at": "2026-06-30T09:00:38",
+    "elapsed_min": 91,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 383.8,
+    "moonbag_exit_pct": -97.6
+  },
+  {
+    "addr": "57FNEAfmBczisJkPa39yfqUr3S35HSUHFeQqFSA2pump",
+    "sym": "TRUMP",
+    "dex": "pumpswap",
+    "score": 97,
+    "alerted_at": "2026-06-30T07:29:36",
+    "entry": 6.36e-05,
+    "mcap": 63600.0,
+    "liq": 18285.05,
+    "vol1h": 49992.1,
+    "ch1h": 64.93,
+    "buy_pct": 63,
+    "age_m": 3,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:23844"
+    ],
+    "rc_score": 23844,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "EYfdt8cNFyyTEJKp18dcoVbgUHDnM1SK3bT2uKj9XXHc",
+      "total_holders": 0,
+      "top1_pct": 65,
+      "top10_pct": 86.31,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 64.93,
+      "h6": 64.93,
+      "h24": 64.93,
+      "vol6h": 49992.1,
+      "vol24h": 49992.1,
+      "tx_h6": {
+        "buys": 446,
+        "sells": 260
+      },
+      "tx_h24": {
+        "buys": 446,
+        "sells": 260
+      },
+      "fdv": 63600.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/hmw5k824dg9zgu8zjqvzujmtbrylnbu62dyx6qc5crnn",
+    "outcome": "stop",
+    "outcome_pct": -50.7,
+    "outcome_at": "2026-06-30T07:33:26",
+    "elapsed_min": 3,
+    "targets_hit": []
+  },
+  {
+    "addr": "GKSX3HhhLRU5GuRfeVQ2fpRjsD33d8UCYQDM5BW8pump",
+    "sym": "TOPBULL",
+    "dex": "pumpswap",
+    "score": 78,
+    "alerted_at": "2026-06-30T07:32:46",
+    "entry": 6.309e-05,
+    "mcap": 63091.0,
+    "liq": 18169.58,
+    "vol1h": 22651.05,
+    "ch1h": 63.47,
+    "buy_pct": 58,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": {
+      "top10_pct": 96.5,
+      "top1_pct": 79.3,
+      "holder_adj": -40
+    },
+    "safety_flags": [
+      "rc:27857"
+    ],
+    "rc_score": 27857,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "DEnneAbuX68Ey54Bp4VrDqq1grEGiN1UYd8QS7AkkdXQ",
+      "total_holders": 1,
+      "top1_pct": 79.28,
+      "top10_pct": 97.68,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 64,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 63.47,
+      "h6": 63.47,
+      "h24": 63.47,
+      "vol6h": 22651.05,
+      "vol24h": 22651.05,
+      "tx_h6": {
+        "buys": 164,
+        "sells": 121
+      },
+      "tx_h24": {
+        "buys": 164,
+        "sells": 121
+      },
+      "fdv": 63091.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/azpsrzut6hqmctgoc3jn64ccmjd9x7vz9dqpyebg5er",
+    "outcome": "stop",
+    "outcome_pct": -97.4,
+    "outcome_at": "2026-06-30T07:33:26",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "C6Ea615c3xucgxn6hv4grTAPfivgfinggNbZLYsV8gSK",
+    "sym": "DoubleT",
+    "dex": "meteora",
+    "score": 80,
+    "alerted_at": "2026-06-30T07:33:39",
+    "entry": 1.423e-05,
+    "mcap": 0.0,
+    "liq": 20986.46,
+    "vol1h": 59301.46,
+    "ch1h": 84.11,
+    "buy_pct": 85,
+    "age_m": 3,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:11501"
+    ],
+    "rc_score": 11501,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "VDcXLXJpiWgmf1GHi39ZzXRWkYpdFgTtXVCKYQv83bi",
+      "total_holders": 1,
+      "top1_pct": 73.08,
+      "top10_pct": 85.88,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 52,
+      "lp_providers": 0,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 84.11,
+      "h6": 84.11,
+      "h24": 84.11,
+      "vol6h": 59301.46,
+      "vol24h": 59301.46,
+      "tx_h6": {
+        "buys": 1551,
+        "sells": 264
+      },
+      "tx_h24": {
+        "buys": 1551,
+        "sells": 264
+      },
+      "fdv": 0.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/6t6cpzdwkluvsqfto2k4xziqtcty8lbifajk4xsxbasc",
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-06-30T08:01:44",
+    "elapsed_min": 28,
+    "targets_hit": []
+  },
+  {
+    "addr": "5SZ1N85bHqjG8FZGdW2DN9mSbAeJTsMZypf9AoLopump",
+    "sym": "Becker",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T07:34:25",
+    "entry": 8.553e-05,
+    "mcap": 85539.0,
+    "liq": 21264.17,
+    "vol1h": 73366.89,
+    "ch1h": 121.0,
+    "buy_pct": 62,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:23733"
+    ],
+    "rc_score": 23733,
+    "lp_locked": 99.6,
+    "rc_features": {
+      "creator": "EfdFoY7b41786TgPnf7oPGNbXyXFG62aQyiN6Y8AfgqT",
+      "total_holders": 0,
+      "top1_pct": 65.0,
+      "top10_pct": 84.97,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 121.0,
+      "h6": 121.0,
+      "h24": 121.0,
+      "vol6h": 73366.89,
+      "vol24h": 73366.89,
+      "tx_h6": {
+        "buys": 769,
+        "sells": 475
+      },
+      "tx_h24": {
+        "buys": 769,
+        "sells": 475
+      },
+      "fdv": 85539.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/8w5jycku7po9h4xqpkjhlspyxyzcdm54oxwnizec243r",
+    "outcome": "stop",
+    "outcome_pct": -49.3,
+    "outcome_at": "2026-06-30T07:45:07",
+    "elapsed_min": 10,
+    "targets_hit": []
+  },
+  {
+    "addr": "7iWM1zDK2szcs7uDnQZQ8pgfXrYZDovCXZ37mLhLpump",
+    "sym": "65%",
+    "dex": "pumpswap",
+    "score": 83,
+    "alerted_at": "2026-06-30T07:52:51",
+    "entry": 5.194e-05,
+    "mcap": 51948.0,
+    "liq": 16545.8,
+    "vol1h": 46203.17,
+    "ch1h": 34.49,
+    "buy_pct": 61,
+    "age_m": 4,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:24327"
+    ],
+    "rc_score": 24327,
+    "lp_locked": 99.2,
+    "rc_features": {
+      "creator": "Ci1sFacQHnnqhwmQvnXYNHnB8jmAF5VY1SWKYnGmTy2R",
+      "total_holders": 1,
+      "top1_pct": 65,
+      "top10_pct": 91.73,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 34.49,
+      "h6": 34.49,
+      "h24": 34.49,
+      "vol6h": 46203.17,
+      "vol24h": 46203.17,
+      "tx_h6": {
+        "buys": 419,
+        "sells": 272
+      },
+      "tx_h24": {
+        "buys": 419,
+        "sells": 272
+      },
+      "fdv": 51948.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/ducmfm5ldnbk7emdqohnqw13vxsk4zbfqtnkzpfkmmuz",
+    "outcome": "stop",
+    "outcome_pct": -43.8,
+    "outcome_at": "2026-06-30T07:55:27",
+    "elapsed_min": 2,
+    "targets_hit": []
+  },
+  {
+    "addr": "CRZMdbpAcYKcicTGPthWRhUXLbsXocTf9LHC3DtWpump",
+    "sym": "NORMIE",
+    "dex": "pumpswap",
+    "score": 96,
+    "alerted_at": "2026-06-30T07:55:20",
+    "entry": 6.027e-05,
+    "mcap": 60279.0,
+    "liq": 17801.32,
+    "vol1h": 38364.88,
+    "ch1h": 101.0,
+    "buy_pct": 55,
+    "age_m": 2,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:128120"
+    ],
+    "rc_score": 128120,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+      "total_holders": 0,
+      "top1_pct": 42.6,
+      "top10_pct": 92.39,
+      "dev_pct": 42.6,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 81,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 101.0,
+      "h6": 101.0,
+      "h24": 101.0,
+      "vol6h": 38364.88,
+      "vol24h": 38364.88,
+      "tx_h6": {
+        "buys": 411,
+        "sells": 341
+      },
+      "tx_h24": {
+        "buys": 411,
+        "sells": 341
+      },
+      "fdv": 60279.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/c6rt2dl1fwjtyd2r9ajrgexzb5akbtyvembwulnv7n52",
+    "outcome": "+300%",
+    "outcome_pct": 535.6,
+    "outcome_at": "2026-06-30T08:07:35",
+    "elapsed_min": 12,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 574.1,
+    "moonbag_exit_pct": 146.7
+  },
+  {
+    "addr": "svvqhdYWRBoo4whp7fABXVMmJWrGChB9zUJnJGvpump",
+    "sym": "Ansem",
+    "dex": "pumpswap",
+    "score": 91,
+    "alerted_at": "2026-06-30T08:07:49",
+    "entry": 5.257e-05,
+    "mcap": 52576.0,
+    "liq": 16650.05,
+    "vol1h": 48437.44,
+    "ch1h": 70.02,
+    "buy_pct": 60,
+    "age_m": 2,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.4,
+    "rc_features": {
+      "creator": "7nxyBQ4Q8nbQvAqnujFgxzQ8DxefBbjuhsSVfqPpqLJh",
+      "total_holders": 25,
+      "top1_pct": 20.99,
+      "top10_pct": 69.85,
+      "dev_pct": 0,
+      "insiders": 4,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 70.02,
+      "h6": 70.02,
+      "h24": 70.02,
+      "vol6h": 48437.44,
+      "vol24h": 48437.44,
+      "tx_h6": {
+        "buys": 518,
+        "sells": 348
+      },
+      "tx_h24": {
+        "buys": 518,
+        "sells": 348
+      },
+      "fdv": 52576.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/3d6alpynda9uagbxhpymtj8z9zfkl6wbvc1n9xcyyqo6",
+    "outcome": "stop",
+    "outcome_pct": -45.8,
+    "outcome_at": "2026-06-30T08:08:27",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "AzyYTmAULHpcEUkUaBUBnpXqLR63Hjq7RdraP5X9pump",
+    "sym": "QUANT",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-30T08:07:50",
+    "entry": 6.607e-05,
+    "mcap": 66075.0,
+    "liq": 19001.25,
+    "vol1h": 251933.84,
+    "ch1h": 112.0,
+    "buy_pct": 54,
+    "age_m": 9,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:27168"
+    ],
+    "rc_score": 27168,
+    "lp_locked": 98.9,
+    "rc_features": {
+      "creator": "Fi2hrxExy6TJnKcbPtQpo6iZzX9SUVbB9mDw6d29NgCn",
+      "total_holders": 0,
+      "top1_pct": 66.75,
+      "top10_pct": 104.37,
+      "dev_pct": 66.75,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 64,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 918.0,
+      "h6": 112.0,
+      "h24": 112.0,
+      "vol6h": 251933.84,
+      "vol24h": 251933.84,
+      "tx_h6": {
+        "buys": 2317,
+        "sells": 1961
+      },
+      "tx_h24": {
+        "buys": 2317,
+        "sells": 1961
+      },
+      "fdv": 66075.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/33awdeocw5qsyflgb9nnyaceknmi43tfeagjqu7qzxj4",
+    "outcome": "stop",
+    "outcome_pct": -51.5,
+    "outcome_at": "2026-06-30T08:08:42",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "CL1q2DyJhe8C7BtGxyJsB4NHXRiKgMZL1GWhodX2hfqB",
+    "sym": "ANSEM",
+    "dex": "meteora",
+    "score": 78,
+    "alerted_at": "2026-06-30T08:09:23",
+    "entry": 0.0001923,
+    "mcap": 192318.0,
+    "liq": 11944.4,
+    "vol1h": 11082.06,
+    "ch1h": 85.43,
+    "buy_pct": 62,
+    "age_m": 1,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:21501"
+    ],
+    "rc_score": 21501,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "AcbeDNdLFv1gT7bzrc2TgNzg6QYaCnx18aqCgnuP5gWq",
+      "total_holders": 0,
+      "top1_pct": 5.0,
+      "top10_pct": 16.99,
+      "dev_pct": 5.0,
+      "insiders": 50,
+      "insider_nets": 3,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 61,
+      "lp_providers": 0,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 85.43,
+      "h6": 85.43,
+      "h24": 85.43,
+      "vol6h": 11082.06,
+      "vol24h": 11082.06,
+      "tx_h6": {
+        "buys": 21,
+        "sells": 13
+      },
+      "tx_h24": {
+        "buys": 21,
+        "sells": 13
+      },
+      "fdv": 192318.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/3bnedpdbokqoklhmkvb7rn7qie9qbcger8hq19i2wzuh",
+    "outcome": "+300%",
+    "outcome_pct": 349.6,
+    "outcome_at": "2026-06-30T08:54:51",
+    "elapsed_min": 45,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 349.6,
+    "moonbag_exit_pct": 84.0
+  },
+  {
+    "addr": "3kj7ooVd63hYpBwQPfaYwcnZwNTcRfaRJtTNDU87pump",
+    "sym": "WAGMI",
+    "dex": "pumpswap",
+    "score": 95,
+    "alerted_at": "2026-06-30T08:10:11",
+    "entry": 7.393e-05,
+    "mcap": 73940.0,
+    "liq": 19676.16,
+    "vol1h": 19495.29,
+    "ch1h": 135.0,
+    "buy_pct": 62,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:16104"
+    ],
+    "rc_score": 16104,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "3uta5S9t5MJ2CNmhXchyGqnRS9NsoWcWC7RyV2QstK84",
+      "total_holders": 0,
+      "top1_pct": 50.0,
+      "top10_pct": 144.39,
+      "dev_pct": 50.0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 57,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 135.0,
+      "h6": 135.0,
+      "h24": 135.0,
+      "vol6h": 19495.29,
+      "vol24h": 19495.29,
+      "tx_h6": {
+        "buys": 157,
+        "sells": 96
+      },
+      "tx_h24": {
+        "buys": 157,
+        "sells": 96
+      },
+      "fdv": 73940.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/hrx9rcge4unm9d1wvbyp8qnu623pvsilpsh7kweq5hyf",
+    "outcome": "stop",
+    "outcome_pct": -33.0,
+    "outcome_at": "2026-06-30T08:11:15",
+    "elapsed_min": 1,
+    "targets_hit": []
+  },
+  {
+    "addr": "B3byhJ2dt4mhPpevXp2yWm2oRzUGfKeumn6D9gBYpump",
+    "sym": "Shrimp",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T08:15:45",
+    "entry": 5.205e-05,
+    "mcap": 52052.0,
+    "liq": 16547.73,
+    "vol1h": 41764.12,
+    "ch1h": 70.2,
+    "buy_pct": 62,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:111348"
+    ],
+    "rc_score": 111348,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "GeBJSHK4WsGrz2HRvTbqvWGx4JRMpHfJG2ikzrYBDuwR",
+      "total_holders": 0,
+      "top1_pct": 42.6,
+      "top10_pct": 94.66,
+      "dev_pct": 42.6,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 80,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 70.2,
+      "h6": 70.2,
+      "h24": 70.2,
+      "vol6h": 41764.12,
+      "vol24h": 41764.12,
+      "tx_h6": {
+        "buys": 394,
+        "sells": 239
+      },
+      "tx_h24": {
+        "buys": 394,
+        "sells": 239
+      },
+      "fdv": 52052.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/6huru1mgfn8dgrnwwefzjgujam6tc65t2awt7ae2sxpo",
+    "outcome": "stop",
+    "outcome_pct": -51.7,
+    "outcome_at": "2026-06-30T08:19:04",
+    "elapsed_min": 3,
+    "targets_hit": []
+  },
+  {
+    "addr": "BTSEEcW4yCPxkU2FimGErcTpqFQUXYpZBhrkExiKkd48",
+    "sym": "ONE",
+    "dex": "raydium",
+    "score": 86,
+    "alerted_at": "2026-06-30T08:15:51",
+    "entry": 5.481e-05,
+    "mcap": 54812.0,
+    "liq": 18819.36,
+    "vol1h": 177526.71,
+    "ch1h": 79.34,
+    "buy_pct": 51,
+    "age_m": 6,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:23944"
+    ],
+    "rc_score": 23944,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+      "total_holders": 0,
+      "top1_pct": 65.02,
+      "top10_pct": 92.17,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 1,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 41.09,
+      "h6": 79.34,
+      "h24": 79.34,
+      "vol6h": 177526.71,
+      "vol24h": 177526.71,
+      "tx_h6": {
+        "buys": 1344,
+        "sells": 1271
+      },
+      "tx_h24": {
+        "buys": 1344,
+        "sells": 1271
+      },
+      "fdv": 54812.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/bdrvhlrx67ukvd9vgdod4pducfuvu1esrkqathse43yb",
+    "outcome": "stop",
+    "outcome_pct": -42.6,
+    "outcome_at": "2026-06-30T08:17:02",
+    "elapsed_min": 1,
+    "targets_hit": []
+  },
+  {
+    "addr": "DQ1zRnAiy4bjhiWgDvoaQhyGGqjJFb1aVyF3BpCHbonk",
+    "sym": "CONVICTION",
+    "dex": "raydium",
+    "score": 89,
+    "alerted_at": "2026-06-30T08:17:27",
+    "entry": 8.182e-05,
+    "mcap": 81828.0,
+    "liq": 20736.8,
+    "vol1h": 7825.88,
+    "ch1h": 94.97,
+    "buy_pct": 75,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:27678"
+    ],
+    "rc_score": 27678,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+      "total_holders": 0,
+      "top1_pct": 79.24,
+      "top10_pct": 98.79,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 64,
+      "lp_providers": 1,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 94.97,
+      "h6": 94.97,
+      "h24": 94.97,
+      "vol6h": 7825.88,
+      "vol24h": 7825.88,
+      "tx_h6": {
+        "buys": 48,
+        "sells": 16
+      },
+      "tx_h24": {
+        "buys": 48,
+        "sells": 16
+      },
+      "fdv": 81828.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/gs1fvhnwub5okpjdazdfwqv48nycszsp3mzs6j8l1hwk",
+    "outcome": "stop",
+    "outcome_pct": -58.0,
+    "outcome_at": "2026-06-30T08:19:50",
+    "elapsed_min": 2,
+    "targets_hit": []
+  },
+  {
+    "addr": "5S3bT8bax5PSSAt77Li7HQwqfxpdLsf9ifx1bYmHpump",
+    "sym": "dog",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T08:22:06",
+    "entry": 0.000115,
+    "mcap": 115007.0,
+    "liq": 24606.15,
+    "vol1h": 66823.81,
+    "ch1h": 198.0,
+    "buy_pct": 66,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:23878"
+    ],
+    "rc_score": 23878,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": "Dfs96zcHxjnv2dxndGLvtvzaRYb6jfsuJkif8WpN7sr3",
+      "total_holders": 0,
+      "top1_pct": 65.0,
+      "top10_pct": 85.48,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 198.0,
+      "h6": 198.0,
+      "h24": 198.0,
+      "vol6h": 66823.81,
+      "vol24h": 66823.81,
+      "tx_h6": {
+        "buys": 395,
+        "sells": 203
+      },
+      "tx_h24": {
+        "buys": 395,
+        "sells": 203
+      },
+      "fdv": 115007.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/ekz1jythxcyuuejcoqezx78xilqpftpuwpbs4up8jfsz",
+    "outcome": "+100%",
+    "outcome_pct": 111.2,
+    "outcome_at": "2026-06-30T08:25:16",
+    "elapsed_min": 3,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "H4YcXrCHpNPivVDUF9gzsSVpT5dM4kHcRRRpBXPubonk",
+    "sym": "UNIPCS",
+    "dex": "raydium",
+    "score": 80,
+    "alerted_at": "2026-06-30T08:27:55",
+    "entry": 0.0002817,
+    "mcap": 281739.0,
+    "liq": 40974.76,
+    "vol1h": 207073.3,
+    "ch1h": 558.0,
+    "buy_pct": 61,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:23712"
+    ],
+    "rc_score": 23712,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": null,
+      "total_holders": 0,
+      "top1_pct": 65,
+      "top10_pct": 78.59,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 1,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 558.0,
+      "h6": 558.0,
+      "h24": 558.0,
+      "vol6h": 207073.3,
+      "vol24h": 207073.3,
+      "tx_h6": {
+        "buys": 1135,
+        "sells": 738
+      },
+      "tx_h24": {
+        "buys": 1135,
+        "sells": 738
+      },
+      "fdv": 281739.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/hesubthcxwfodacnimra5twbpuz6ku5cn12ndp12utu",
+    "outcome": "+100%",
+    "outcome_pct": 101.1,
+    "outcome_at": "2026-06-30T08:33:05",
+    "elapsed_min": 5,
+    "targets_hit": [
+      100
+    ],
+    "moonbag_closed": true
+  },
+  {
+    "addr": "Hy2WBE4z1v8mn5poZQvrBmLEpomHBDznMCmdUH2PMniD",
+    "sym": "cat",
+    "dex": "pumpswap",
+    "score": 80,
+    "alerted_at": "2026-06-30T08:32:42",
+    "entry": 7.329e-05,
+    "mcap": 73292.0,
+    "liq": 19570.62,
+    "vol1h": 22315.02,
+    "ch1h": 90.8,
+    "buy_pct": 62,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:127160"
+    ],
+    "rc_score": 127160,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "AV7PjXHL5JXZ1YoYRoN9Dsstg1x2UciBupMCXcJP8gUz",
+      "total_holders": 0,
+      "top1_pct": 65.31,
+      "top10_pct": 87.86,
+      "dev_pct": 2.35,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 81,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 90.8,
+      "h6": 90.8,
+      "h24": 90.8,
+      "vol6h": 22315.02,
+      "vol24h": 22315.02,
+      "tx_h6": {
+        "buys": 140,
+        "sells": 86
+      },
+      "tx_h24": {
+        "buys": 140,
+        "sells": 86
+      },
+      "fdv": 73292.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/gk6heajkjas7qfcswkhjy1ucnrpc84v7ugzsycbgpo8t",
+    "outcome": "+200%",
+    "outcome_pct": 204.7,
+    "outcome_at": "2026-06-30T09:07:10",
+    "elapsed_min": 34,
+    "targets_hit": [
+      100,
+      200
+    ]
+  },
+  {
+    "addr": "AXT4VuV15WL5CWMMFKvX8k939FsbLwBVQo2aSGz6pump",
+    "sym": "Asteroid",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T08:43:54",
+    "entry": 9.402e-05,
+    "mcap": 94028.0,
+    "liq": 22324.66,
+    "vol1h": 89620.26,
+    "ch1h": 147.0,
+    "buy_pct": 61,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:24122"
+    ],
+    "rc_score": 24122,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "xyzfhxfy8NhfeNG3Um3WaUvFXzNuHkrhrZMD8dsStB6",
+      "total_holders": 0,
+      "top1_pct": 65.0,
+      "top10_pct": 90.05,
+      "dev_pct": 2.8,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 147.0,
+      "h6": 147.0,
+      "h24": 147.0,
+      "vol6h": 89620.26,
+      "vol24h": 89620.26,
+      "tx_h6": {
+        "buys": 605,
+        "sells": 386
+      },
+      "tx_h24": {
+        "buys": 605,
+        "sells": 386
+      },
+      "fdv": 94028.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/bcwx8bo4ecegkpwrrygv2gqdeebnddxznzwtrjiykjdd",
+    "outcome": "stop",
+    "outcome_pct": -40.6,
+    "outcome_at": "2026-06-30T08:44:28",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "2xL5DYrVSRsCVkwjwUmjwL8ZLfNbqtQAZqNq7HLpbrrr",
+    "sym": "Doraemon",
+    "dex": "meteora",
+    "score": 84,
+    "alerted_at": "2026-06-30T08:46:21",
+    "entry": 9.767e-05,
+    "mcap": 95473.0,
+    "liq": 10583.55,
+    "vol1h": 11461.75,
+    "ch1h": 429.0,
+    "buy_pct": 65,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:10001"
+    ],
+    "rc_score": 10001,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": null,
+      "total_holders": 0,
+      "top1_pct": 51.07,
+      "top10_pct": 82.66,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 50,
+      "lp_providers": 0,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 429.0,
+      "h6": 429.0,
+      "h24": 429.0,
+      "vol6h": 11461.75,
+      "vol24h": 11461.75,
+      "tx_h6": {
+        "buys": 113,
+        "sells": 62
+      },
+      "tx_h24": {
+        "buys": 113,
+        "sells": 62
+      },
+      "fdv": 95473.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/hhebi2slppffxttfau3xlsc2eqam9wendisfhyfbyp3a",
+    "outcome": "stop",
+    "outcome_pct": -70.2,
+    "outcome_at": "2026-06-30T08:46:30",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "FSVeBuRHb5SNVzCPjNQecTxEjPNTEYqA8Su13bjypump",
+    "sym": "TRUMP",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T08:49:42",
+    "entry": 8.58e-05,
+    "mcap": 85803.0,
+    "liq": 21433.55,
+    "vol1h": 174007.14,
+    "ch1h": 177.0,
+    "buy_pct": 65,
+    "age_m": 2,
+    "ticker_dup": true,
+    "holder": null,
+    "safety_flags": [
+      "rc:25910"
+    ],
+    "rc_score": 25910,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "F5XvCe4233m6mHRbkkq2ZsFvqrPAnRrDBExeQy2fwagQ",
+      "total_holders": 0,
+      "top1_pct": 65,
+      "top10_pct": 97.49,
+      "dev_pct": 3.67,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 63,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 177.0,
+      "h6": 177.0,
+      "h24": 177.0,
+      "vol6h": 174007.14,
+      "vol24h": 174007.14,
+      "tx_h6": {
+        "buys": 1372,
+        "sells": 749
+      },
+      "tx_h24": {
+        "buys": 1372,
+        "sells": 749
+      },
+      "fdv": 85803.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/cotvstiagqdrr9rfcyhdenjjczyaueivvtytke7ymvpo",
+    "outcome": "stop",
+    "outcome_pct": -33.5,
+    "outcome_at": "2026-06-30T08:50:14",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "Ee92Ta7MM8sKUbfsQe1FoX1urcPrnZu4RRy9JVdepump",
+    "sym": "PUMP",
+    "dex": "pumpswap",
+    "score": 84,
+    "alerted_at": "2026-06-30T08:52:57",
+    "entry": 5.586e-05,
+    "mcap": 55861.0,
+    "liq": 17119.48,
+    "vol1h": 30322.69,
+    "ch1h": 80.08,
+    "buy_pct": 58,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:20675"
+    ],
+    "rc_score": 20675,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "GdRSPexhxbQz5H2zFQrNN2BAZUqEjAULBigTPvQ6oDMP",
+      "total_holders": 0,
+      "top1_pct": 94.01,
+      "top10_pct": 176.31,
+      "dev_pct": 74.31,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 60,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 80.08,
+      "h6": 80.08,
+      "h24": 80.08,
+      "vol6h": 30322.69,
+      "vol24h": 30322.69,
+      "tx_h6": {
+        "buys": 246,
+        "sells": 179
+      },
+      "tx_h24": {
+        "buys": 246,
+        "sells": 179
+      },
+      "fdv": 55861.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/byccqfzzgga9h8y6zzr7awmaieemkuketenxdshgwmxk",
+    "outcome": "stop",
+    "outcome_pct": -97.4,
+    "outcome_at": "2026-06-30T08:53:08",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "DjBhmw2YjXnU5sXKNcBJbLovsiQVc6Eojuq3TNTVpump",
+    "sym": "jotchua",
+    "dex": "pumpswap",
+    "score": 99,
+    "alerted_at": "2026-06-30T08:53:52",
+    "entry": 7.005e-05,
+    "mcap": 70051.0,
+    "liq": 19234.55,
+    "vol1h": 57003.78,
+    "ch1h": 127.0,
+    "buy_pct": 56,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:3001"
+    ],
+    "rc_score": 3001,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "69o1WFBcrnYEuPpjKtnZ4Pzu5HguaBuhbLP3qK51J577",
+      "total_holders": 0,
+      "top1_pct": 30,
+      "top10_pct": 65.23,
+      "dev_pct": 30,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 34,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 127.0,
+      "h6": 127.0,
+      "h24": 127.0,
+      "vol6h": 57003.78,
+      "vol24h": 57003.78,
+      "tx_h6": {
+        "buys": 235,
+        "sells": 182
+      },
+      "tx_h24": {
+        "buys": 235,
+        "sells": 182
+      },
+      "fdv": 70051.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/edybhd8zqvfuq6zucpi1dxyuqbca3dbavgzncrfwvyfg",
+    "outcome": "stop",
+    "outcome_pct": -46.5,
+    "outcome_at": "2026-06-30T08:53:59",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "6P3W7L6ATyHbqt9MKs4RgDrrFZhCeJJMBwWtPCDvpump",
+    "sym": "CHAD",
+    "dex": "pumpswap",
+    "score": 91,
+    "alerted_at": "2026-06-30T08:53:53",
+    "entry": 5.788e-05,
+    "mcap": 57887.0,
+    "liq": 17466.41,
+    "vol1h": 50057.75,
+    "ch1h": 93.47,
+    "buy_pct": 52,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:137583"
+    ],
+    "rc_score": 137583,
+    "lp_locked": 99.7,
+    "rc_features": {
+      "creator": "GJA1HEbxGnqBhBifH9uQauzXSB53to5rhDrzmKxhSU65",
+      "total_holders": 0,
+      "top1_pct": 200.75,
+      "top10_pct": 285.78,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 82,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 93.47,
+      "h6": 93.47,
+      "h24": 93.47,
+      "vol6h": 50057.75,
+      "vol24h": 50057.75,
+      "tx_h6": {
+        "buys": 486,
+        "sells": 441
+      },
+      "tx_h24": {
+        "buys": 486,
+        "sells": 441
+      },
+      "fdv": 57887.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/8l4cvhgvjx4k5nf8jiaw1f6tw5qsaxogrhsxjae9t2st",
+    "outcome": "stop",
+    "outcome_pct": -39.2,
+    "outcome_at": "2026-06-30T08:54:10",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "81H84f84mmTXcPZ4fVu5dz1LAVGhBtfCGrmxSmTQpump",
+    "sym": "BARRON",
+    "dex": "pumpswap",
+    "score": 84,
+    "alerted_at": "2026-06-30T08:53:54",
+    "entry": 0.0001306,
+    "mcap": 130683.0,
+    "liq": 26620.78,
+    "vol1h": 319822.92,
+    "ch1h": 232.0,
+    "buy_pct": 60,
+    "age_m": 4,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:23953"
+    ],
+    "rc_score": 23953,
+    "lp_locked": 98.7,
+    "rc_features": {
+      "creator": "3ojH6Ki4YZ6BeLXvYZAXtAh3vRtGhbXZf8SRPuzW4HDR",
+      "total_holders": 3,
+      "top1_pct": 65.0,
+      "top10_pct": 83.69,
+      "dev_pct": 0,
+      "insiders": 7,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 62,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 232.0,
+      "h6": 232.0,
+      "h24": 232.0,
+      "vol6h": 319822.92,
+      "vol24h": 319822.92,
+      "tx_h6": {
+        "buys": 2189,
+        "sells": 1485
+      },
+      "tx_h24": {
+        "buys": 2189,
+        "sells": 1485
+      },
+      "fdv": 130683.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/5uypvaeaei7r8cuvhsxhkd1dnhv47sixsr792wapuenn",
+    "outcome": "stop",
+    "outcome_pct": -40.7,
+    "outcome_at": "2026-06-30T09:07:31",
+    "elapsed_min": 13,
+    "targets_hit": []
+  },
+  {
+    "addr": "8LPtVXg4sExwC1kGvtc7AJiQb9WP7h488cgDG72Vpump",
+    "sym": "ELON",
+    "dex": "pumpswap",
+    "score": 81,
+    "alerted_at": "2026-06-30T08:54:00",
+    "entry": 6.375e-05,
+    "mcap": 63757.0,
+    "liq": 18274.51,
+    "vol1h": 21239.15,
+    "ch1h": 64.86,
+    "buy_pct": 61,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:132268"
+    ],
+    "rc_score": 132268,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "H6zpaY14WgkEmB3MJTvC7Wb5PQJkBVLd4KwLD2ktVgop",
+      "total_holders": 0,
+      "top1_pct": 72.81,
+      "top10_pct": 95.37,
+      "dev_pct": 72.81,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 81,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 64.86,
+      "h6": 64.86,
+      "h24": 64.86,
+      "vol6h": 21239.15,
+      "vol24h": 21239.15,
+      "tx_h6": {
+        "buys": 210,
+        "sells": 132
+      },
+      "tx_h24": {
+        "buys": 210,
+        "sells": 132
+      },
+      "fdv": 63757.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/oa45xmvufxjzopa1xc94fs5ihyfx3szpbptexen233w",
+    "outcome": "stop",
+    "outcome_pct": -32.5,
+    "outcome_at": "2026-06-30T08:54:51",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "9ubxzNxVXZRsSZTNJYGjSziQ8Puprk3XKPy8A95pJB4r",
+    "sym": "65",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-30T08:57:15",
+    "entry": 6.514e-05,
+    "mcap": 65149.0,
+    "liq": 18658.74,
+    "vol1h": 116441.17,
+    "ch1h": 113.0,
+    "buy_pct": 58,
+    "age_m": 13,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:14201"
+    ],
+    "rc_score": 14201,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "9nyBPi3c5oGo3549oPUWuGbtrPyKzeoYsjhNeACN4s9A",
+      "total_holders": 11,
+      "top1_pct": 65.0,
+      "top10_pct": 91.64,
+      "dev_pct": 0,
+      "insiders": 4,
+      "insider_nets": 1,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 24.33,
+      "h6": 113.0,
+      "h24": 113.0,
+      "vol6h": 116441.17,
+      "vol24h": 116441.17,
+      "tx_h6": {
+        "buys": 1137,
+        "sells": 826
+      },
+      "tx_h24": {
+        "buys": 1137,
+        "sells": 826
+      },
+      "fdv": 65149.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/53xzced1uc5k3txecujf2bdhvpqp6fpfnmxpdbb4gdi",
+    "outcome": "stop",
+    "outcome_pct": -31.1,
+    "outcome_at": "2026-06-30T09:00:48",
+    "elapsed_min": 3,
+    "targets_hit": []
+  },
+  {
+    "addr": "3ZCf4dGqCAWCEzJZMFigjxLkQjC2zPFtnLojksn7pump",
+    "sym": "MLG",
+    "dex": "pumpswap",
+    "score": 94,
+    "alerted_at": "2026-06-30T08:58:56",
+    "entry": 7.071e-05,
+    "mcap": 70715.0,
+    "liq": 19417.84,
+    "vol1h": 106958.4,
+    "ch1h": 83.58,
+    "buy_pct": 60,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:13966"
+    ],
+    "rc_score": 13966,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "CkDDXUSPBhXut1DajYf29k9yso8nF1594XWVYnugcUGg",
+      "total_holders": 131,
+      "top1_pct": 65,
+      "top10_pct": 88.72,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 83.58,
+      "h6": 83.58,
+      "h24": 83.58,
+      "vol6h": 106958.4,
+      "vol24h": 106958.4,
+      "tx_h6": {
+        "buys": 659,
+        "sells": 437
+      },
+      "tx_h24": {
+        "buys": 659,
+        "sells": 437
+      },
+      "fdv": 70715.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/g7gmpufuyob2detq46mbtmw9njws7pt2xumtmhk5dztt",
+    "outcome": "stop",
+    "outcome_pct": -41.1,
+    "outcome_at": "2026-06-30T09:00:53",
+    "elapsed_min": 1,
+    "targets_hit": []
+  },
+  {
+    "addr": "2PcWNiQfiuB36Z7ocXimFjx2WmXCiW3fzZwguuDwpump",
+    "sym": "tradition",
+    "dex": "pumpswap",
+    "score": 92,
+    "alerted_at": "2026-06-30T09:06:53",
+    "entry": 0.0001198,
+    "mcap": 119827.0,
+    "liq": 25308.52,
+    "vol1h": 211654.13,
+    "ch1h": 210.0,
+    "buy_pct": 61,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:18766"
+    ],
+    "rc_score": 18766,
+    "lp_locked": 99.9,
+    "rc_features": {
+      "creator": "2xpKBkzBoAretBBsJYmhzouZR1WZuZFuT6jwoRSFz8Ed",
+      "total_holders": 163,
+      "top1_pct": 97.92,
+      "top10_pct": 211.53,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 59,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 210.0,
+      "h6": 210.0,
+      "h24": 210.0,
+      "vol6h": 211654.13,
+      "vol24h": 211654.13,
+      "tx_h6": {
+        "buys": 1120,
+        "sells": 711
+      },
+      "tx_h24": {
+        "buys": 1120,
+        "sells": 711
+      },
+      "fdv": 119827.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/dpxuzkq68pmqpez7yxsjaobxvfgk4v2spzcf1t35wh44",
+    "outcome": "stop",
+    "outcome_pct": -45.0,
+    "outcome_at": "2026-06-30T09:07:31",
+    "elapsed_min": 0,
+    "targets_hit": []
+  },
+  {
+    "addr": "vD4gAaQdJb3T3E4233vS4ix41ppSxQa7pGbfLtJpump",
+    "sym": "LIFE",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-30T09:06:54",
+    "entry": 8.331e-05,
+    "mcap": 83317.0,
+    "liq": 21338.68,
+    "vol1h": 366602.73,
+    "ch1h": 115.0,
+    "buy_pct": 54,
+    "age_m": 11,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:14339"
+    ],
+    "rc_score": 14339,
+    "lp_locked": 99.7,
+    "rc_features": {
+      "creator": "4cwBuRtMvtLXctry7MYWMUv2nBBLzVGSAUiLmFdZPr1E",
+      "total_holders": 245,
+      "top1_pct": 65.0,
+      "top10_pct": 90.2,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 91.43,
+      "h6": 115.0,
+      "h24": 115.0,
+      "vol6h": 366602.73,
+      "vol24h": 366602.73,
+      "tx_h6": {
+        "buys": 2468,
+        "sells": 2072
+      },
+      "tx_h24": {
+        "buys": 2468,
+        "sells": 2072
+      },
+      "fdv": 83317.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/e7vswuhukup9tzjb5tgqspv45yidnbjco6v9uhyq4svm",
+    "outcome": "+300%",
+    "outcome_pct": 346.8,
+    "outcome_at": "2026-06-30T09:19:14",
+    "elapsed_min": 12,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 397.7,
+    "moonbag_exit_pct": 136.0
+  },
+  {
+    "addr": "HFQAaXxdoNvtJ6K1KcJiiL38Y48KZjvLkJjftFHppump",
+    "sym": "supplytard",
+    "dex": "pumpswap",
+    "score": 90,
+    "alerted_at": "2026-06-30T09:19:06",
+    "entry": 5.406e-05,
+    "mcap": 54062.0,
+    "liq": 16807.72,
+    "vol1h": 25306.29,
+    "ch1h": 74.59,
+    "buy_pct": 63,
+    "age_m": 24,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:12902"
+    ],
+    "rc_score": 12902,
+    "lp_locked": 99.0,
+    "rc_features": {
+      "creator": "7qCz9AnotTCTKcE4wS8fGMsVGt7e9ECuFtkrBzWkuANQ",
+      "total_holders": 60,
+      "top1_pct": 57.55,
+      "top10_pct": 107.66,
+      "dev_pct": 2.31,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 54,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 26.04,
+      "h6": 74.59,
+      "h24": 74.59,
+      "vol6h": 25306.29,
+      "vol24h": 25306.29,
+      "tx_h6": {
+        "buys": 285,
+        "sells": 165
+      },
+      "tx_h24": {
+        "buys": 285,
+        "sells": 165
+      },
+      "fdv": 54062.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/83yeynvybjpm11nmwqmhvqkxt6jorqxwhgw9v1bqpzsq",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
+  },
+  {
+    "addr": "C9VPkF8MeGc81mnFjLq1kfzn3KAeQgkKrG4iwE9hpump",
+    "sym": "BULLMAR",
+    "dex": "pumpswap",
+    "score": 100,
+    "alerted_at": "2026-06-30T09:20:00",
+    "entry": 8.801e-05,
+    "mcap": 88016.0,
+    "liq": 21539.84,
+    "vol1h": 91154.56,
+    "ch1h": 128.0,
+    "buy_pct": 65,
+    "age_m": 2,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:honeypot",
+      "rc:129147"
+    ],
+    "rc_score": 129147,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "F5XvCe4233m6mHRbkkq2ZsFvqrPAnRrDBExeQy2fwagQ",
+      "total_holders": 9,
+      "top1_pct": 79.31,
+      "top10_pct": 97.24,
+      "dev_pct": 79.31,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 81,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 128.0,
+      "h6": 128.0,
+      "h24": 128.0,
+      "vol6h": 91154.56,
+      "vol24h": 91154.56,
+      "tx_h6": {
+        "buys": 429,
+        "sells": 235
+      },
+      "tx_h24": {
+        "buys": 429,
+        "sells": 235
+      },
+      "fdv": 88016.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/eqgsxmgscupw5ngiycbyu7umzsdbfajthhjgl4ymh964",
+    "outcome": "+300%",
+    "outcome_pct": 378.7,
+    "outcome_at": "2026-06-30T09:36:13",
+    "elapsed_min": 16,
+    "targets_hit": [
+      100,
+      200,
+      300
+    ],
+    "moonbag_closed": true,
+    "moonbag_peak_pct": 515.4,
+    "moonbag_exit_pct": 201.6
+  },
+  {
+    "addr": "7Gc1mPtjdxNtPwQT4EMpR46CCmqPZRvRLA79gv2jpump",
+    "sym": "FARTCOIN 2",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-06-30T09:24:46",
+    "entry": 0.0001034,
+    "mcap": 103481.0,
+    "liq": 23909.8,
+    "vol1h": 420769.55,
+    "ch1h": 168.0,
+    "buy_pct": 57,
+    "age_m": 9,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:14304"
+    ],
+    "rc_score": 14304,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "DGaLRTYy6rxR93FHedzKTqZCJp79foaZEDnGJCtJNNho",
+      "total_holders": 178,
+      "top1_pct": 65.0,
+      "top10_pct": 89.34,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 55,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 80.93,
+      "h6": 168.0,
+      "h24": 168.0,
+      "vol6h": 420769.55,
+      "vol24h": 420769.55,
+      "tx_h6": {
+        "buys": 2449,
+        "sells": 1876
+      },
+      "tx_h24": {
+        "buys": 2449,
+        "sells": 1876
+      },
+      "fdv": 103481.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/emx5ytm4rzchj9gwjtns2jd4qievetiivkrksazkwsh5",
+    "outcome": "stop",
+    "outcome_pct": -40.6,
+    "outcome_at": "2026-06-30T09:30:37",
+    "elapsed_min": 5,
+    "targets_hit": []
+  },
+  {
+    "addr": "2aQKC1xiKpEyAWvzSDrULnYLVuybWyx7qrsnpP8hpump",
+    "sym": "Udin",
+    "dex": "pumpswap",
+    "score": 84,
+    "alerted_at": "2026-06-30T09:30:59",
+    "entry": 5.438e-05,
+    "mcap": 54380.0,
+    "liq": 16981.73,
+    "vol1h": 68024.43,
+    "ch1h": 75.68,
+    "buy_pct": 61,
+    "age_m": 49,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [],
+    "rc_score": 1,
+    "lp_locked": 99.8,
+    "rc_features": {
+      "creator": "B2hVDAfLktZ9u62ZK6Q3AYsidskoiG4GsTiUAY3xhNZx",
+      "total_holders": 142,
+      "top1_pct": 21.35,
+      "top10_pct": 63.31,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 1,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 51.13,
+      "h6": 75.68,
+      "h24": 75.68,
+      "vol6h": 68024.43,
+      "vol24h": 68024.43,
+      "tx_h6": {
+        "buys": 680,
+        "sells": 438
+      },
+      "tx_h24": {
+        "buys": 680,
+        "sells": 438
+      },
+      "fdv": 54380.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/6yismmnysgxcw9awgf3h2gxmr1gdkvwq7oo76rjq1i6v",
     "outcome": null,
     "outcome_pct": null,
     "outcome_at": null,
