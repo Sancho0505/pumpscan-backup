@@ -37218,5 +37218,64 @@
     "outcome_at": null,
     "elapsed_min": null,
     "targets_hit": []
+  },
+  {
+    "addr": "CyiCycxr3JLcr9vKkDMm6uYM6y8Gzjuks4C9ebsrpump",
+    "sym": "SHROOM",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-07-01T16:58:13",
+    "entry": 0.0003252,
+    "mcap": 325280.0,
+    "liq": 42492.14,
+    "vol1h": 392419.15,
+    "ch1h": 619.0,
+    "buy_pct": 65,
+    "age_m": 24,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:24715"
+    ],
+    "rc_score": 24715,
+    "lp_locked": 98.0,
+    "rc_features": {
+      "creator": "516UQQ2XMD4yVz9L1KuszUrG56VYe3kF2p3YNEf62K5n",
+      "total_holders": 10,
+      "top1_pct": 70.0,
+      "top10_pct": 82.63,
+      "dev_pct": 0,
+      "insiders": 15,
+      "insider_nets": 2,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 63,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 20.29,
+      "h6": 619.0,
+      "h24": 619.0,
+      "vol6h": 392419.15,
+      "vol24h": 392419.15,
+      "tx_h6": {
+        "buys": 3414,
+        "sells": 1830
+      },
+      "tx_h24": {
+        "buys": 3414,
+        "sells": 1830
+      },
+      "fdv": 325280.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/dvs2kgyipahqn7j9kfb33syk6pphwv8qaizdufuog5ti",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
