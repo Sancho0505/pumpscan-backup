@@ -38013,5 +38013,64 @@
     "outcome_at": null,
     "elapsed_min": null,
     "targets_hit": []
+  },
+  {
+    "addr": "e9GLqEo9J1LDXbExtf2HC363wdYoGNmLteSt49Zpump",
+    "sym": "GOU",
+    "dex": "pumpswap",
+    "score": 86,
+    "alerted_at": "2026-07-01T21:15:24",
+    "entry": 5.046e-05,
+    "mcap": 50465.0,
+    "liq": 16839.59,
+    "vol1h": 139038.98,
+    "ch1h": 56.19,
+    "buy_pct": 54,
+    "age_m": 5,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:10001"
+    ],
+    "rc_score": 10001,
+    "lp_locked": 99.0,
+    "rc_features": {
+      "creator": "F1wnu4oerHSLqkHLacwsZSPuz7wDxoczNMez7nHEFSuR",
+      "total_holders": 0,
+      "top1_pct": 21.76,
+      "top10_pct": 56.35,
+      "dev_pct": 0,
+      "insiders": 9,
+      "insider_nets": 2,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 50,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 67.34,
+      "h6": 56.19,
+      "h24": 56.19,
+      "vol6h": 139038.98,
+      "vol24h": 139038.98,
+      "tx_h6": {
+        "buys": 1527,
+        "sells": 1326
+      },
+      "tx_h24": {
+        "buys": 1527,
+        "sells": 1326
+      },
+      "fdv": 50465.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/ab6btbejpul8wxpnmxgo8daki429fldm4rjurkcewsuc",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
