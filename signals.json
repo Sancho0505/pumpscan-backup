@@ -36569,5 +36569,185 @@
     "outcome_at": "2026-07-01T15:08:07",
     "elapsed_min": 20,
     "targets_hit": []
+  },
+  {
+    "addr": "9EpsPCp2nPbvFFGvqTtuSDB7enbNoU4i2jm9w85Tpump",
+    "sym": "BULLTROLL",
+    "dex": "pumpswap",
+    "score": 79,
+    "alerted_at": "2026-07-01T15:23:56",
+    "entry": 5.246e-05,
+    "mcap": 52468.0,
+    "liq": 16600.36,
+    "vol1h": 3674.29,
+    "ch1h": 54.98,
+    "buy_pct": 67,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:10001"
+    ],
+    "rc_score": 10001,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "FtKqrhsqL7v7eZPMPpakh5e8rKfcZCTeSwSvSVyGrWcL",
+      "total_holders": 1,
+      "top1_pct": 32.52,
+      "top10_pct": 85.52,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 50,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 54.98,
+      "h6": 54.98,
+      "h24": 54.98,
+      "vol6h": 3674.29,
+      "vol24h": 3674.29,
+      "tx_h6": {
+        "buys": 58,
+        "sells": 29
+      },
+      "tx_h24": {
+        "buys": 58,
+        "sells": 29
+      },
+      "fdv": 52468.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/31gozhjrn5riwyxyl4m8lhuk1pdjs96aayjszrtvp4kz",
+    "outcome": "+100%",
+    "outcome_pct": 104.9,
+    "outcome_at": "2026-07-01T15:31:51",
+    "elapsed_min": 7,
+    "targets_hit": [
+      100
+    ]
+  },
+  {
+    "addr": "FtWD7st7o5fp6sJ5NTp1jLY1qaRjibzYDTe3xSYpump",
+    "sym": "BullArmy",
+    "dex": "pumpswap",
+    "score": 91,
+    "alerted_at": "2026-07-01T15:32:52",
+    "entry": 0.0001097,
+    "mcap": 109780.0,
+    "liq": 24009.61,
+    "vol1h": 13664.87,
+    "ch1h": 79.56,
+    "buy_pct": 84,
+    "age_m": 1,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:26297"
+    ],
+    "rc_score": 26297,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "2HFPH9U2fXNZdpN4CuwceJYVn7TwaLf89RMsNUDKt9Q9",
+      "total_holders": 0,
+      "top1_pct": 20.11,
+      "top10_pct": 96.72,
+      "dev_pct": 6.53,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 63,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 79.56,
+      "h6": 79.56,
+      "h24": 79.56,
+      "vol6h": 13664.87,
+      "vol24h": 13664.87,
+      "tx_h6": {
+        "buys": 88,
+        "sells": 17
+      },
+      "tx_h24": {
+        "buys": 88,
+        "sells": 17
+      },
+      "fdv": 109780.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/fj27fepsgaaeuqxe26v6habcamfcmk15nekztfyma57u",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
+  },
+  {
+    "addr": "5Dinquu62o5mvM19Mad58XVo9g9sfkcUjzFLxESEqZBC",
+    "sym": "Donetto",
+    "dex": "meteora",
+    "score": 87,
+    "alerted_at": "2026-07-01T15:37:54",
+    "entry": 1.293e-05,
+    "mcap": 0.0,
+    "liq": 20103.39,
+    "vol1h": 61784.77,
+    "ch1h": 64.89,
+    "buy_pct": 84,
+    "age_m": 3,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "lp_unlocked:0%",
+      "rc:11501"
+    ],
+    "rc_score": 11501,
+    "lp_locked": 0.0,
+    "rc_features": {
+      "creator": null,
+      "total_holders": 4,
+      "top1_pct": 75.99,
+      "top10_pct": 90.21,
+      "dev_pct": 0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": false,
+      "rugged": false,
+      "rc_norm": 52,
+      "lp_providers": 0,
+      "launchpad": null
+    },
+    "dx": {
+      "m5": 64.89,
+      "h6": 64.89,
+      "h24": 64.89,
+      "vol6h": 61784.77,
+      "vol24h": 61784.77,
+      "tx_h6": {
+        "buys": 1604,
+        "sells": 305
+      },
+      "tx_h24": {
+        "buys": 1604,
+        "sells": 305
+      },
+      "fdv": 0.0,
+      "socials": false
+    },
+    "url": "https://dexscreener.com/solana/6ksjt9fesbqmb5jastcrhwgkzuq7fic68vhbbfqg6wt5",
+    "outcome": null,
+    "outcome_pct": null,
+    "outcome_at": null,
+    "elapsed_min": null,
+    "targets_hit": []
   }
 ]
