@@ -37890,10 +37890,10 @@
       "socials": false
     },
     "url": "https://dexscreener.com/solana/8ufdjytuwvjwgtie8zxba9zyu6bjzcljdpcdrtclyntt",
-    "outcome": null,
-    "outcome_pct": null,
-    "outcome_at": null,
-    "elapsed_min": null,
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-07-01T21:10:06",
+    "elapsed_min": 16,
     "targets_hit": []
   },
   {
@@ -37949,6 +37949,65 @@
       "socials": false
     },
     "url": "https://dexscreener.com/solana/8f1c5scmvq1jamnufzbrpcirassbbteuyfgoxaczlktq",
+    "outcome": "expired",
+    "outcome_pct": 0.0,
+    "outcome_at": "2026-07-01T21:10:06",
+    "elapsed_min": 12,
+    "targets_hit": []
+  },
+  {
+    "addr": "8M8ykoAbwcK3RkVTB2Q2Q8dbZabMTjYPpYVxWykMpump",
+    "sym": "hansem",
+    "dex": "pumpswap",
+    "score": 94,
+    "alerted_at": "2026-07-01T21:07:32",
+    "entry": 8.406e-05,
+    "mcap": 84066.0,
+    "liq": 21648.64,
+    "vol1h": 85309.77,
+    "ch1h": 154.0,
+    "buy_pct": 58,
+    "age_m": 3,
+    "ticker_dup": false,
+    "holder": null,
+    "safety_flags": [
+      "rc:37938"
+    ],
+    "rc_score": 37938,
+    "lp_locked": 100.0,
+    "rc_features": {
+      "creator": "J47G48JVFMcuHDcTXyYAF3fLVujBNr7Z6ZbHE3qRUuS3",
+      "total_holders": 0,
+      "top1_pct": 50.0,
+      "top10_pct": 125.07,
+      "dev_pct": 50.0,
+      "insiders": 0,
+      "insider_nets": 0,
+      "transfer_fee_pct": 0,
+      "token_2022": true,
+      "rugged": false,
+      "rc_norm": 68,
+      "lp_providers": 0,
+      "launchpad": "pump_fun"
+    },
+    "dx": {
+      "m5": 154.0,
+      "h6": 154.0,
+      "h24": 154.0,
+      "vol6h": 85309.77,
+      "vol24h": 85309.77,
+      "tx_h6": {
+        "buys": 270,
+        "sells": 194
+      },
+      "tx_h24": {
+        "buys": 270,
+        "sells": 194
+      },
+      "fdv": 84066.0,
+      "socials": true
+    },
+    "url": "https://dexscreener.com/solana/7a2dndlcfmvva9pfbcrefvcwgn85vlvpfwd5yipxd3wr",
     "outcome": null,
     "outcome_pct": null,
     "outcome_at": null,
